@@ -1,0 +1,244 @@
+<h1>Introduction</h1>
+
+<p>The @@@D2Smite@@@r Paladin is the strongest and easiest class used for soloing Uber Tristram. With a strong single target stunning attack that never misses and a high Life total replenished by Lifetap, the @@@D2Smite@@@r can take down the Ubers or any boss with extremely budget gear. While he is extremely good at single target killing, he does suffer from no area of effect skill which limits his overall kill speed in crowded areas.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the @@@D2Smite@@@r. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2Smite@@@ - Max immediately, required</li>
+<li>20 points to @@@D2HolyShield@@@ - Place a couple of points immediately for duration and then max after @@@D2Smite@@@, required</li>
+<li>20 points to @@@D2Fanaticism@@@ - First point at 30 and then wait to max until after @@@D2HolyShield@@@, required</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Smiter Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Smiter Gear</h2>
+
+<p>The following section shows some of the most important Items for the @@@D2Smite@@@r. For a detailed per-slot breakdown of all @@@D2Smite@@@r Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2Grief@@@ or @@@D2LastWish@@@ - Phase Blade preferred because it’s indestructible</li>
+<li>Shield: Ethereal @@@D2Exile@@@ Vortex Shield or @@@D2HeraldOfZakarum@@@</li>
+<li>Body Armor: @@@D2ChainsOfHonor@@@</li>
+<li>Helm: @@@D2GuillaumesFace@@@ Winged Helm</li>
+<li>Belt: @@@D2ThundergodsVigor@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints </h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+<li>86%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Hit Recovery Breakpoints (Spears and Staves)</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li></li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+</ul>
+</td>
+<td>
+<ul>
+<li></li>
+<li>0%</li>
+<li>3%</li>
+<li>7%</li>
+<li>13%</li>
+<li>20%</li>
+<li>32%</li>
+<li>48%</li>
+<li>75%</li>
+<li>129%</li>
+<li>280%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>18%</li>
+<li>30%</li>
+<li>48%</li>
+<li>75%</li>
+<li>125%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li></li>
+<li></li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+<li>1</li>
+</ul>
+</td>
+<td>
+<ul>
+<li></li>
+<li></li>
+<li>0%</li>
+<li>13%</li>
+<li>32%</li>
+<li>86%</li>
+<li>600%</li>
+<li></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints (With Holy Shield)</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li>2</li>
+<li>1</li>
+</ul>
+</td>
+<td>
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li>0%</li>
+<li>86%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>No Mercenary really survives Uber Tristram so many @@@D2Smite@@@rs who run that often don’t use mercenaries. However, for the Resistancest of the game you can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want more Damage.</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Pride@@@, Eth @@@D2BreathOfTheDying@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

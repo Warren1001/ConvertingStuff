@@ -1,0 +1,190 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The “Javazon” Amazon is a glass cannon character. She has extremely high damage output both in single target form (Charged Strike) as well as large Area of Effect clear (Lightning Fury). She is the fastest boss-killing character in the game and can be extremely useful in high density areas like The Secret Cow Level and the Chaos Sanctuary. 
+2. Quick Reference
+2.1. Skill Build
+* Lightning Fury - 20 points, Invest immediately and max out
+* Charged Strike - 20 points, Invest immediately and max out after Lightning Fury
+* Lightning Bolt - 20 points, max out after Lightning Fury and Charged Strike
+* Lightning Strike - 20 points, max out after Lightning Fury and Charged Strike
+* Power Strike - 20 points, max out after Lightning Fury and Charged Strike, optional - if you want Valkyrie you will not be able to max this skill as well.
+* Plague Javelin - 1 point, prerequisite for Lightning Fury
+* Poison Javelin -  1 point, prerequisite for Lightning Fury
+* Jab - 1 point, prerequisite for all Javelin Skills
+* Critical Strike - 1 point - prerequisite for Pierce
+* Penetrate - 1 point - prerequisite for Pierce
+* Pierce - 1 point - Invest immediately - want ~63%+ pierce after soft skills added from items and charms
+* Dodge - 1 point - prerequisite to Valkyrie, optional
+* Avoid - 1 point - prerequisite to Valkyrie, optional
+* Evade - 1 point - prerequisite to Valkyrie, optional
+* Inner Sight - 1 point - prerequisite to Valkyrie, optional
+* Slow Missiles - 1 point - prerequisite to Valkyrie, optional
+* Decoy - 1 point - prerequisite to Valkyrie, optional
+* Valkyrie - 1+ points - If you want a tanky minion, more points here improves her a lot. Level 17+ Valkyrie (after soft skills added from items and charms) gains big damage as well and possible elemental immunity
+2.2. Attributes
+Strength
+Enough strength for gear (156 total)
+Dexterity
+Enough for gear, should not need to add any points here unless going max Block (though not recommended in most cases)
+
+
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Ethereal Titan’s Revenge Ceremonial Javelin
+* Weapon Swap: CTA + Spirit Monarch
+* Shield: Spirit Monarch
+* Body Armor: Chains of Honor
+* Helm: Griffon’s Eye Diadem (5/5 Light Facet)
+* Gloves: Magic Gloves - 3 to Javelin and Spear Skills, 20% Increased Attack Speed (referred to as 3/20s), 2/20 Rare Gloves w/ res/life/leech/stats
+* Boots: Eth Sandstorm Treks, Waterwalks, Aldur’s Advance Boots
+* Belt: Razortail
+* Ring 1: Ravenfrost
+* Ring 2: Stone of Jordan, Bul-Kathos Wedding Band
+* Amulet: The Cat’s Eye
+* Charm 1: Amazon Hellfire Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Javelin Skiller Grand Charms w/ Life or Faster Hit Recovery to hit 86% FHR 
+* Charm 4: 10 small charms with life, res, mana, FHR depending on needs
+Physical Sustain Build
+* Weapon: Ethereal Titan’s Revenge Matriarchal Javelin
+* Weapon Swap: CTA + Spirit Monarch
+* Shield: , Phoenix Runeword Shield
+* Body Armor: Chains of Honor
+* Helm: Griffon’s Eye Diadem (5/5 Light Facet)
+* Gloves: Magic Gloves - 3 to Javelin and Spear Skills, 20% Increased Attack Speed (referred to as 3/20s), 2/20 Rare Gloves w/ res/life/leech/stats
+* Boots: Eth Sandstorm Treks, Waterwalks, Aldur’s Advance Boots
+* Belt: Razortail
+* Ring 1: Ravenfrost
+* Ring 2: Dual Leech(Life and Mana steal) Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: Amazon Hellfire Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Javelin Skiller Grand Charms w/ Life or Faster Hit Recovery to hit 86% FHR 
+* Charm 4: 10 small charms with life, res, mana, FHR depending on needs
+Budget Build Items
+Note: Make sure to have Cannot Be Frozen on 1 piece of gear (Ravenfrost, Rhyme Shield, Spirit Shroud, or whatever piece you can find)
+* Weapon: Titan’s Revenge Ceremonial Javelin, Demon’s Arch, 40% Increased Attack Speed Magic or Rare Javelins, +Javelin Skills Javelins
+* Weapon Swap: Second Set of Javelins (If not Call to Arms + Spirit Runeword)
+* Shield: Spirit Shield, Rhyme, Moser’s Blessed Aim
+* Body Armor: Vipermagi, Smoke Runeword, Peace Runeword, Spirit Shroud
+* Helm: Harlequin Crest Shako, Lore, Rockstopper, Tarnhelm (for MF)
+* Gloves: Laying of Hands, Sander’s Taboo, Magnus’ Skin, Bloodfist, Frostburn
+* Boots: Waterwalk, Infernostride, Hsarus Boots
+* Belt: Razortail, String of Ears, Nosferatu’s Coil, Goldwrap
+* Ring 1: Ravenfrost, Dwarf Star, Stats/Resistances/Life Ring
+* Ring 2: Mana Leech (Mana stolen per hit) ring
+* Amulet: The Cat’s Eye, +Javelin Skills, Stats/Resistances/Life Amulet
+* Charm 1: Any Torch for stats if can’t get Amazon
+* Charm 2: Annihilus Charm
+* Charm 3: Javelin Skiller Grand Charms
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	6%
+	13%
+	20%
+	32%
+	52%
+	86%
+	174%
+	600%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	19
+	18
+	17
+	16
+	15
+	14
+	13
+	12
+	11
+	Stat and amount required to reach frame
+	0%
+	7%
+	14%
+	22%
+	32%
+	48%
+	68%
+	99%
+	152%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	5
+	4
+	3
+	23
+	1
+	Stat and amount required to reach frame
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.4.3. Increased Attack Speed Breakpoints with Ceremonial/Matriarchal Javelins for throwing (Lightning Fury)
+...
+Frames to perform action
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	6%
+	16%
+	30%
+	52%
+	89%
+	
+
+2.4.3. Increased Attack Speed Breakpoints with Ceremonial/Matriarchal Javelins for stabbing (Charged Strike)
+...
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	10%
+	26%
+	50%
+	95%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage to help take care of light immunes.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience, Honor, Insight
+* Body Armor: Treachery
+* Helm: Vampire Gaze, Crown of Thieves, Tal Rasha’s Horadric Crest, Stealskull, Any Life Steal Helm

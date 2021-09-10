@@ -1,0 +1,215 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+A surprisingly fun and efficient build, the Holy Freeze Zealot is known for his ability to attack large groups of monsters without fear of instant death. Due to the unavoidable slowing effect of Holy Freeze, this Zealot is a lot safer than most melee characters and can be built either on a budget or with very high end gear. Definitely recommended to newer players who want to get into playing melee.
+2. Quick Reference
+2.1. Skill Build
+* Fanaticism - 20 Points - If using Doom, this is best option for most damage, optional
+* Holy Freeze - 20 Points - If not using Doom or don’t care for as much speed, this is main Aura, optional
+* Salvation - 20 Points - Synergy for Holy Freeze, required
+* Resist Cold- 20 Points - Synergy for Holy Freeze, required
+* Holy Fire - 1 Point - Prerequisite for Holy Freeze, required 
+* Might - 1 Point - Prerequisite for Holy Freeze, required
+* Sacrifice - 20 Points - Synergy for Zeal, required
+* Zeal - 20 Points - Main Damage dealer, invest in Sacrifice first for more damage or Zeal for more attack rating, required
+* Holy Shield - 1+ Points - Great for Max Block, required
+* Blessed Hammer - 1 Point - Prerequisite for Holy Shield, required
+* Holy Bolt - 1 Point - Prerequisite for Holy Shield, required
+* Charge - 1 Point - Prerequisite for Holy Shield, required
+* Smite - 1 Point - Prerequisite for Holy Shield, required
+* Concentration - 1 Point - Prerequisite for Fanaticism, optional
+* Blessed Aim - 1 Point - Prerequisite for Fanaticism, optional
+
+
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for max block with Holy Shield active
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Doom
+* Weapon Swap: CTA + Spirit
+* Shield: Eth Exile or Herald of Zakarum
+* Body Armor: Fortitude
+* Helm: Crown of Ages with 2x Cold Facets
+* Gloves: Laying of Hands
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Dual Leech Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: Paladin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Defensive Build
+* Weapon: Last Wish Phase Blade
+* Weapon Swap: CTA + Spirit
+* Shield: Phoenix
+* Body Armor: Fortitude
+* Helm: Kira’s Guardian
+* Gloves: Dracul’s Grasp
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Dual Leech Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: Paladin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Budget Build Items
+* Weapon: Oath, Honor, Black, Aldur’s Rhythm, Nord’s Tenderizer, Fleshrender, Sureshrill Frost, Zakarum’s Hand
+* Shield: Rhyme, Spirit Shield, Ancient’s Pledge
+* Body Armor: Lionheart, Duriel’s Shell, Duress, Treachery, Spirit Shroud, Shaftstop
+* Helm:  Rockstopper, Guillaume’s Face, Tal Rasha’s Horadric Crest 
+* Gloves: Laying of Hands, Bloodfist, Sander’s Taboo
+* Boots: Gore Rider, Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings
+* Charm 1: Any Torch for stats if can’t get Paladin
+* Charm 2: Annihilus
+* Charm 3: Any Max Damage/Life/Attack Rating charms
+* Charm 4: Any Offensive or Combat Paladin skiller GCs
+* Charm 5: Any Charms with Life/Res/FHR/Str
+2.4. Breakpoints
+2.4.1.2 Faster Hit Recovery Breakpoints 
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	2.4.1. Faster Hit Recovery Breakpoints (Spears and Staves)
+
+
+Frames to perform action
+	
+
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	
+
+	0%
+	3%
+	7%
+	13%
+	20%
+	32%
+	48%
+	75%
+	129%
+	280%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	9%
+	18%
+	30%
+	48%
+	75%
+	125%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	
+
+	
+
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.4.3.2 Faster Block Rate Breakpoints (With Holy Shield)
+...
+Frames to perform action
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	
+
+	
+
+	
+
+	0%
+	86%
+	2.5. Mercenary
+You can either choose an Offensive (Might) Act 2 Nightmare Mercenary or an Act 1 Mercenary with Faith depending on what aura you are using as your main Aura.
+2.5.1. Mercenary Gear
+Optimal Act 1 Mercenary Gear
+* Weapon: Faith Diamond Bow or Great Bow
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Optimal Act 2 Mercenary Gear
+* Weapon: Eth Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Act 2 Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

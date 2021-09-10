@@ -1,0 +1,151 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Frenzy Barbarian is one of the least gear dependent Barbarian builds that you can make. With high attack and movement speed, this character can quickly dismantle its foes. This build also begins with Double Swing at level 6 and can be very solid for leveling throughout the game. Overall one of the best Barbarian PvE builds around.
+2. Quick Reference
+2.1. Skill Build
+* Frenzy - 20 Points - Main damage dealer, required
+* Double Throw - 1 Point - Prerequisite for Frenzy, required
+* Double Swing - 20 Points - Synergy of Frenzy
+* Bash - 1 Point - Prerequisite for Double Swing
+* Leap - 1 Point - Useful for movement, optional
+* Weapon Mastery of Choice - 20 Points - Adds Damage, Attack Rating, and Critical Strike
+* Increased Stamina - 1 Point - Prerequisite for Increased Speed, required
+* Increased Speed - 1 Point - Helps you move faster, required
+* Iron Skin - 1 Point - Prerequisite for Natural Resistance, required
+* Natural Resistance - 1 Point - Massive boost to Resistances, required
+* Battle Command - 1 Point - Increases Skills , required
+* Battle Orders - 20 Points - Massive Life and Mana boosts, required
+* Shout - 1+ Points - Increases Defenses, required
+* Howl - 1 Point - Prerequisite for Battle Shout, required
+* Taunt - 1+ Points - Synergy for Frenzy, optional
+* Battle Cry - 1+ Points - Great for lowering Damage and Defense of Monsters, optional
+* Find Potion - 1 Point - Prerequisite for Find Item, optional
+* Find Item - 1+ Points - Helpful if running a lot of magic find to find more items, optional
+
+
+2.2. Attributes
+Strength
+Enough for gear 
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Grief
+* Weapon Offhand: Breath of the Dying, Death, Grief, Doom
+* Weapon Swap: 2x +3 Warcries Spears
+* Body Armor: Fortitude
+* Helm: Arreat’s Face
+* Gloves: Dracul’s Grasp, Steelrend
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Bul Kathos, Dual Leech Ring with Life/Stats/Resistances
+* Amulet: Highlord’s Wrath
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+MrLlama’s Speedy Build
+* Weapon: Grief
+* Weapon Offhand: Last Wish
+* Weapon Swap: Harmony Bow
+* Body Armor: Enigma
+* Helm: Arreat’s Face
+* Gloves: Laying of Hands
+* Boots: Gore Rider
+* Belt: M’avina’s Tenet
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Bul Kathos, Dual Leech Ring with Life/Stats/Resistances
+* Amulet: The Cat’s Eye
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Faster Run Walk charms. 3 FRW/3 Max Damage/20 Attack Rating are best in slot.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Budget Build Items
+* Weapon: Oath, Black, Aldur’s Rhythm, Nord’s Tenderizer, Fleshrender, Sureshrill Frost, Zakarum’s Hand
+* Weapon Swap: 2x +3 Warcries Spears
+* Body Armor: Lionheart, Duriel’s Shell, Duress, Treachery, Spirit Shroud, Shaftstop
+* Helm: Arreat’s Face, Rockstopper, Immortal King’s Will, Guillaume’s Face, Tal Rasha’s Horadric Crest 
+* Gloves: Laying of Hands, Bloodfist, Sander’s Taboo
+* Boots: Gore Rider, Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings
+* Charm 1: Any Torch for stats if can’t get Barbarian
+* Charm 2: Annihilus
+* Charm 3: Any Max Damage/Life/Attack Rating charms
+* Charm 4: Any Barbarian skiller GCs
+* Charm 5: Any Charms with Life/Res/FHR/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	37%
+	63%
+	105%
+	200%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	42%
+	86%
+	280%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage to help take care of cold immunes. I prefer a might mercenary.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight or Reaper’s Toll
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

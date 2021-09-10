@@ -1,0 +1,144 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Singer Barbarian is a funny build made viable by the skill Warcry stunning and doing damage. Not relying on physical damage from good weapons, this build is surprisingly not too item dependent making a PvE playthrough a bit easier than a standard Melee character might find. That being said, the damage ultimately does top out a bit lower than one would like, making it a less than optimal end game build.
+2. Quick Reference
+2.1. Skill Build
+* War Cry - 20 Points - Main damage dealer and stunner, required
+* Battle Orders - 20 Points - Increases Life and Mana, required
+* Battle Cry - 20 Points - Lowers Defense and Damage, required
+* Taunt - 20 Points - Synergy for War Cry, required
+* Howl - 1+ Points - Synergy for War Cry, required
+* Shout - 1 Point - Prerequisite for Battle Orders, required
+* Battle Command - 1 Point - Adds one more skill, required
+* Increased Stamina - 1 Point - Prerequisite for Increased Speed, required
+* Increased Speed - 1 Point - Increases Barbarian movement, required
+* Iron Skin - 1 Point - Prerequisite for Natural Resistance, required
+* Natural Resistance - 1+ Points - Increases Resistances greatly, required
+* Leap - 1 Point - Good for movement, required
+* Bash - 1 Point - Prerequisite for Concentrate, optional
+* Stun - 1 Point - Prerequisite for Concentrate, optional
+* Concentrate - 1 Point - Can be useful for Crushing Blow on bosses, optional
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Heart of the Oak
+* Weapon Offhand:  Heart of the Oak, Stormshield
+* Weapon Swap: 2x +3 Warcries Weapons, Last Wish for Concentrate
+* Body Armor: Enigma
+* Helm: +2 Barb Circlet with Faster Cast Rate
+* Gloves: Trang Oul’s Claw
+* Boots: Eth Sandstorm Trek
+* Belt: Arachnid Mesh
+* Ring 1: Stone of Jordan
+* Ring 2: Ravenfrost, 10 Faster Cast Rate Ring
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 4: 9x War Cry Skiller Grand Charms
+* Charm 5: Small Charms with Life/Res/FHR/Mana/Strength
+Magic Find Build
+* Weapon: Heart of the Oak
+* Weapon Offhand: Heart of the Oak, Spirit
+* Weapon Swap: 2x +3 Warcries Weapons
+* Body Armor: Skullder’s Ire
+* Helm: Shako with Ist
+* Gloves: Chance Guards
+* Boots: War Travelers 
+* Belt: Arachnid Mesh
+* Ring 1: 10 FCR Ring
+* Ring 2: 30% Nagelring (or 40% MF Blue Ring)
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+* Weapons: Spirit Sword, Suicide Branch, Wizardspike
+* Body Armor: Vipermagi, Que Hagans, Stealth
+* Helm: Lore, Rockstopper, Tarnhelm
+* Gloves: Magefist, Frostburn
+* Boots: Waterwalk, Infernostride, Natalya’s Soul, Aldur’s Advance, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: 10 FCR w/ Life/Res/Stats, Nagelring
+* Ring 2: 10 FCR w/ Life/Res/Stats, Nagelring
+* Amulet: Eye of Etlich, 10 FCR w/ +3 Cold Skills
+* Charm 1: Any Torch for stats if can’t get Barbarian
+* Charm 2: Annihilus
+* Charm 3: Any Warcries or Masteries Grand Charms
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Strength
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	37%
+	63%
+	105%
+	200%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	42%
+	86%
+	280%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage. I prefer a Might Mercenary.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

@@ -1,0 +1,191 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Poison Necromancer is a highly gear dependent character that can tackle large groups of mobs at high player numbers on their own. With Poison skills lacking in synergies, it also opens up the ability to mix Poison with other kinds of skills for a big variety. Once geared uip, this is one of the strongest characters in the game for PvE.
+2. Quick Reference
+2.1. Skill Build
+* Poison Dagger - 20 points, prerequisite for Poison Nova, required
+* Poison Explosion - 20 points, prerequisite for Poison Nova, required
+* Poison Nova - 20 points, invest points immediately, required
+* Teeth - 1 point - prerequisite for Poison Nova, required
+* Corpse Explosion - 1-20 points - prerequisite for Poison Nova and good damage dealer, required
+* Amplify Damage - 1 point - prerequisite for Lower Resist, required
+* Weaken - 1 point - prerequisite for Lower Resist, required
+* Terror - 1 point - prerequisite for Lower Resist, required
+* Iron Maiden - 1 point - prerequisite for Lower Resist, required
+* Life Tap - 1 point - prerequisite for Lower Resist, required
+* Lower Resist - 1-X points - Main curse, usually 1 point is enough with soft skills but can run more points in it if you want to minmax, required
+* Bone Armor - 1 points, Optional physical defense, optional
+* Bone Wall - 1-X points, Optional defense synergy (gives more defense than investing more points into Bone Armor), optional
+* Raise Skeleton - 1-X points, can be great to max out for optional Poison/Summon build, optional
+* Skeleton Mastery - 1-X points, If maxing for Summons, placing points here can help as well, optional
+* Clay Golem - 1 point, Best golem in the game fpr PvE, optional
+* Golem Mastery - 1 point, Help increase tankiness of golems, optional
+* Summon Resist - 1 point, increases resists for summons, optional
+* Skeleton Mage - 1 point, prerequisite for Revive, optional
+* Revive - 1-X points - More Tanks and damage, optional
+2.2. Attributes
+Strength
+Enough strength for gear, May not need to add any points here
+Dexterity
+Enough for gear, should not need to add any points here
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+Note: 3 Piece Trang Oul’s Set gives -25% Poison Resistance which is very strong. Only use Gloves alone or all 3 pieces together, not just 2 though.
+
+
+* Weapon: Death’s Web w/ 5/5 Poison Facet
+* Weapon Swap: CTA + Sigon’s Shield/Lidless (Unless have 156 Strength in which case Spirit)
+* Shield: Trang Oul’s Wing or Homunculus w/ 5/5 Poison Facet
+* Body Armor: Bramble for damage or Enigma for speed
+* Helm: Shako w/ 5/5 Poison Facet
+* Gloves: Trang-Oul’s Claws
+* Boots: Eth Sandstorm Treks
+* Belt: Trang Oul’s Girth or Arachnid Mesh
+* Ring 1: Stone of Jordan or Bul Kathos
+* Ring 2: Stone of Jordan or Bul Kathos
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Necromancer Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Skiller GCs w/ Life or FHR to hit breakpoints
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Magic Find Build
+* Weapon: Death’s Web w/ Ist Rune
+* Weapon Swap: CTA + Sigon’s Shield/Lidless (Unless have 156 Strength in which case Spirit)
+* Shield: Trang Oul’s Wing or Homunculus w/ Ist Rune
+* Body Armor: Enigma
+* Helm: Shako w/ Ist Rune or Perfect Topaz
+* Gloves: Trang-Oul’s Claws
+* Boots: War Traveler
+* Belt: Trang Oul’s Girth or Arachnid Mesh
+* Ring 1: Nagelring
+* Ring 2: Nagelring or 10 FCR Ring to hit a breakpoint if needed
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Necromancer Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Gheed’s Fortune
+* Charm 4: If you feel like you need more damage, add in Poison Skiller GCs
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+* Weapon: Spirit Sword, Any Necro Wand with +Skills, White Runeword, Blackbog’s Sharp
+* Shield: Homunculus, Trang Oul’s Wing, Lidless, Ancient’s Pledge, Rhyme, Spirit Shield
+* Body Armor: Vipermagi, Que Hagans, Stealth, Trang Oul’s Scales
+* Helm: Lore, Tarnhelm, Rockstopper
+* Gloves: Trang Oul’s Claw, Magefist, Frostburn
+* Boots: Waterwalk, Infernostride, Hsarus Boots
+* Belt: Trang Oul’s Girth, String of Ears, Goldwrap, Nightsmoke
+* Ring 1: 10 FCR w/ Life/Res/Stats, Nagelring
+* Ring 2: 10 FCR w/ Life/Res/Stats, Nagelring
+* Amulet: Eye of Etlich, 10 FCR w/ +3 Poison Skills
+* Charm 1: Any Torch for stats if can’t get Necromancer
+* Charm 2: Annihilus
+* Charm 3: Poison skiller GCs
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	0%
+	5%
+	10%
+	16%
+	26%
+	39%
+	56%
+	86%
+	152%
+	377%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	9%
+	18%
+	30%
+	48%
+	75%
+	125%
+	2.4.2. Faster Cast Rate Breakpoints (Vampire Form)
+
+
+Frames to perform action
+	23
+	22
+	21
+	20
+	19
+	18
+	17
+	16
+	15
+	14
+	13
+	Stat and amount required to reach frame
+	0%
+	6%
+	11%
+	18%
+	24%
+	35%
+	48%
+	65%
+	86%
+	120%
+	180%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	6%
+	13%
+	20%
+	32%
+	52%
+	86%
+	174%
+	600%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary. Generally as a Necromancer you do not want to run Holy Freeze since it gets rid of corpses. For this reason, a Might Mercenary is recommended.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight or Infinity (to help with Corpse Explosion Damage)
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

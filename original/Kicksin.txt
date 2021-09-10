@@ -1,0 +1,151 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Kicksin Assassin is known for high single target damage and decent mobility. She is one of the strongest Uber killing characters in Diablo 2 and can be used in combination with items that proc various skills to clear out a lot of PvE content. Overall she is not super gear intensive but does require a couple of solid key items to really get going.
+2. Quick Reference
+2.1. Skill Build
+* Dragon Talon - 20 Points - Main Attacking skill, required
+* Dragon Claw - 1 Point - Prerequisite to Dragon Flight, required
+* Dragon Tail - 1 Point - Prerequisite to Dragon Flight, required
+* Dragon Flight - 1 Point - Useful for teleporting and repositioning Mercenary, required
+* Psychic Hammer - 1 Point - Prerequisite for Mind Blast, required
+* Cloak of Shadows - 1 Point - Useful for Crowd Control, required
+* Mind Blast - 1 Point - Useful for Crowd Control, required
+* Claw Mastery - 1 Point - Prerequisite for Burst of Speed, required
+* Burst of Speed - 1 Point - Useful for Movement and Attack Speed, required
+* Fade - 1 Point - Useful for Damage Reduction and Resistances, required
+* Weapon Block - 1 Point - Prerequisite for Shadow Master, optional
+* Shadow Warrior - 1+ Points - Choose this or Master depending which you prefer. Warrior is better for utility, Master is better for tank, optional
+* Shadow Master - 1+ Points - Choose this or Warrior depending which you prefer. Warrior is better for utility, Master is better for tank, optional
+* Death Sentry - 20 Points - Useful for blowing up dead corpses, optional
+* Lightning Sentry - 20 Points - High alternative damage source, optional
+* Charged Bolt Sentry - 1+ Points - Synergy for Lightning/Death Sentry, optional
+* Shock Web - 1+ Points - Synergy for Lightning/Death Sentry, optional
+* Fireblast - 1+ Points -  Synergy for Death Sentry, optional
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Stormlash
+* Weapon Swap: CTA + Spirit
+* Shield: Stormshield, Sanctuary
+* Body Armor: Chains of Honor
+* Helm: Guillaume's Face
+* Gloves: Laying of Hands
+* Boots: Upped Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Stone of Jordan or Bul Kathos
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Assassin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Trap Skiller GCs w/ Life or FHR to hit 86%
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Rift Build
+* Weapon: Rift War Scepter
+* Weapon Swap: CTA + Spirit
+* Shield: Headhunter’s Glory with Cold Facets, Moser’s with Cold Facets, 
+* Body Armor: Chains of Honor
+* Helm: Nightwing with Cold Facet
+* Gloves: Dracul’s Grasp
+* Boots: Upped Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Stone of Jordan or Bul Kathos
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Assassin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Trap Skiller GCs w/ Life or FHR to hit 86%
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Budget Build Items
+* Weapon: Bartuc’s Cut-Throat, Spirit Sword, Black, Strength
+* Shield: Spirit Shield, Rhyme, Lidless, Ancient’s Pledge
+* Body Armor: Treachery, Spirit Shroud, Duriel’s Shell, Vipermagi, Que Hagans, Stealth
+* Helm: Guillaume’s Face, Lore, Rockstopper, Tarnhelm
+* Gloves: Laying of Hands, Bloodfist, Sander’s Taboo
+* Boots: Upped Gore Riders, Upped Goblin Toes, Shadow Dancers, High base damage Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost
+* Ring 2: Rare ring with Life/Res/Stats, Dwarfstar, Angelic Halo
+* Amulet: Eye of Etlich, +3 Trap Skills Amulet Angelic Wings
+* Charm 1: Any Torch for stats if can’t get Assassin
+* Charm 2: Annihilus
+* Charm 3: Any Assassin Skiller Grand Charms
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	 86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	8%
+	16%
+	27%
+	42%
+	65%
+	102%
+	174%
+	2.4.3. Faster Block Rate Breakpoints
+
+
+Frames to perform action
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.5. Mercenary
+A Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

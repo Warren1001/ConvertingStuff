@@ -1,0 +1,159 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Fire Sorceress is a very strong but fragile character who will have good success early in the game but run into some Fire Immune monsters in Hell that will prove difficult. She can be very solid for farming a few specific areas such as Mephisto, Andariel, Cows, and more. However, to really cover a lot of ground she will need to add another element into her damage type. 
+2. Quick Reference
+2.1. Skill Build
+* Fire ball - 20 Points - Invest immediately, main damage dealer, required
+* Meteor - 20 points - Invest immediately and max out immediately, required
+* Fire bolt - 20 points - Synergy for Fire Skills, required
+* Fire Mastery - 20 points - Max out after maxing other Fire Skills, required
+* Inferno - 1 Point - Prerequisite for Blaze, required
+* Blaze - 1 Point - Prerequisite for Fire Wall, required
+* Fire Wall - 1 Point - Prerequisite for Meteor, required
+* Frozen Armor - 1 point, invest when starting to teleport, required
+* Telekinesis - 1 point, prerequisite for teleport, required
+* Teleport - 1 point, invest immediately at level 18, required
+* Static - 1 point, invested at level 6, let the rest of your plus skills increase its range, required
+* Warmth - 1 Point, invested once a higher level with a lot of plus to skills, optional
+
+
+Second Element
+* Lightning - 20 Points - Potential second element for damage, optional
+* Chain Lightning - 20 Points - Potential second element for damage, optional
+* Lightning Mastery - 1 Point - Potential second element Mastery
+2.2. Attributes
+Strength
+Enough for gear (156 total)
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Eschuta’s Temper, Heart of the Oak
+* Weapon Swap: CTA + Spirit
+* Shield: 35% Spirit Monarch
+* Body Armor: Chains of Honor
+* Helm: Shako
+* Gloves: Magefist
+* Boots: Eth Sandstorm Treks
+* Belt: Arachnid Mesh
+* Ring 1: Stone of Jordan or 10 FCR Ring
+* Ring 2: Stone of Jordan or 10 FCR Ring
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Sorceress Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Skiller GCs w/ Life or FHR to hit 86% or 142% FHR
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+
+
+Magic Find Build
+* Weapon: Eschuta’s Temper
+* Weapon Swap: CTA + Spirit
+* Shield: 35% Spirit Monarch
+* Body Armor: Tal Rasha’s Guardianship w/ Ist
+* Helm: Shako w/ Ist
+* Gloves: Magefist
+* Boots: 50% War Traveler’s 
+* Belt: Tal Rasha’s Fine-Spun Cloth
+* Ring 1: 30% Nagelring (or 40% MF Blue Ring)
+* Ring 2: 30% Nagelring (or 40% MF Blue Ring)
+* Amulet: Tal Rasha’s Adjudication
+* Charm 1: Sorceress Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Charm 4: 5% FHR small charm to hit 60% Breakpoint
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+* Weapon: Wizardspike, Suicide Branch, Oculus, Tal Rasha’s Lidless Eye, Spirit Sword
+* Shield: Spirit, Ancient’s Pledge, Rhyme, Lidless
+* Body Armor: Vipermagi, Que Hagans, Stealth
+* Helm: Lore, Rockstopper, Tarnhelm
+* Gloves: Magefist, Trang Oul’s Claw, Frostburn, Bloodfist
+* Boots: Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: 10 FCR w/ Life/Res/Stats
+* Ring 2: 10 FCR w/ Life/Res/Stats
+* Amulet: 10 FCR w/ +3 Fire Skills, Amulet with Life/Mana/Resistances/Stats
+* Charm 1: Any Torch for stats if can’t get Sorceress
+* Charm 2: Annihilus
+* Charm 3: Fire skiller Grand Charms
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	Stat and amount required to reach frame
+	0%
+	5%
+	9%
+	14%
+	20%
+	30%
+	42%
+	60%
+	86%
+	142%
+	280%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	37%
+	63%
+	105%
+	200%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight or Reaper’s Toll
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

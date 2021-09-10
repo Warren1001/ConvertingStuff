@@ -1,0 +1,136 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Frostmaiden is a Bow Amazon that sacrifices damage for safety. With her ability to freeze everything around her, she can move through the game at her own pace. Due to being more focused on elemental damage, this character is less gear dependent than most Bowazons and can be a great solo player.
+2. Quick Reference
+2.1. Skill Build
+* Freezing Arrow - 20 Points - Main Damage and Crowd Control, required
+* Cold Arrow- 20 Points - Synergy for Freezing Arrow, required
+* Ice Arrow - 1 Point - Synergy for Freezing Arrow but only increases freeze length which isn’t super necessary, required
+* Critical Strike- 1 Point - Prerequisite for Pierce, required
+* Penetrate- 1 Point - Prerequisite for Pierce, required
+* Pierce - 9 Points after +Skills - When mixed with Razortail will give her 100% chance to Pierce enemies, increasing her damage a lot, required.
+* Inner Sight -1 Point - Prerequisite for Valkyrie, optional
+* Slow Missile -1 Point - Prerequisite for Valkyrie, optional
+* Decoy -1 Point - Prerequisite for Valkyrie, optional
+* Dodge -1 Point - Prerequisite for Valkyrie, optional
+* Avoid -1 Point - Prerequisite for Valkyrie, optional
+* Evade -1 Point - Prerequisite for Valkyrie, optional
+* Valkyrie - 17+ Points after Soft Skills - Valkyrie is extremely helpful in tanking and is almost necessary in a Hardcore playthrough. If you do go for the Valkyrie, having at least 17 points total will give her the best gear so she can be more dominant.
+* Magic Arrow - 1 Point - Prerequisite for Strafe, optional
+* Multiple Shot - 1 Point - Prerequisite for Strafe, optional
+* Guided Arrow - 1 Point - Prerequisite for Strafe, optional
+* Strafe - 1+ Points - Can be useful for fighting immune monsters, optional
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Ice +3 Matriarchal Bow or Grand Matron Bow for Mana Steal
+* Weapon Swap: CTA + Lidless unless have 156 Strength for Spirit
+* Body Armor: Chains of Honor
+* Helm: Nightwing’s Veil with 5/5 Cold Facet
+* Gloves: + 3 Bow Skill/20 IAS Gloves, +2 Bow Skill/20 IAS Rare Gloves with nice Stats
+* Boots: Eth Sandstorm Treks
+* Belt: Razortail
+* Ring 1: Ravenfrost
+* Ring 2: Stone of Jordan or Dual Leech Ring
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Amazon Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Bow Skiller GCs w/ Life
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+M’avina’s Budget Build
+* Weapon: M’avina’s Caster
+* Weapon Swap: CTA + Lidless unless have 156 Strength for Spirit
+* Body Armor: M’avina’s Embrace
+* Helm: M’avina’s True Sight
+* Gloves: M’avina’s Icy Clutch
+* Boots: Eth Sandstorm Treks
+* Belt: M’avina’s Tenet
+* Ring 1: Ravenfrost
+* Ring 2: Stone of Jordan or Dual Leech Ring
+* Amulet: 
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Amazon Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Bow Skiller GCs w/ Life
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Budget Build Items
+* Weapon: Wizendraw, Kuko Shakaku, Lycander’s Aim, Harmony, Melody, Zephyr
+* Weapon Swap: Lower Resistance Charges Wand
+* Body Armor: Peace, Duriel’s Shell, Vipermagi, Spirit Shroud, Twitchthroe, Stealth
+* Helm: Valkyrie Wing, Harlequin Crest Shako, Lore, Rockstopper, Tarnhelm
+* Gloves: Shopped +3 Bow and Crossbow Gloves, Laying of Hands, Bloodfist, Sander’s Taboo, Frostburn
+* Boots: Waterwalk, Infernostride, Natalya’s Soul, Aldur’s Advance, Hsarus Boots
+* Belt: Razortail, String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost, Dual Leech Ring
+* Ring 2: Ravenfrost, Dual Leech Ring
+* Amulet: Eye of Etlich, +3 Bow Skills
+* Charm 1: Any Torch for stats if can’t get Amazon
+* Charm 2: Annihilus
+* Charm 3: Bow skiller GCs
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	6%
+	13%
+	20%
+	32%
+	52%
+	86%
+	174%
+	600%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	19
+	18
+	17
+	16
+	15
+	14
+	13
+	12
+	11
+	Stat and amount required to reach frame
+	0%
+	7%
+	14%
+	22%
+	32%
+	48%
+	68%
+	99%
+	152%
+	2.5. Mercenary
+An Offensive (Might) Act 2 Nightmare Mercenary here will be the best bet to increase your physical damage. An Offensive (Blessed Aim) Act 2 Hell Mercenary could also work for increased chance to hit your physical shots.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Insight, Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

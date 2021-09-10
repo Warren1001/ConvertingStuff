@@ -1,0 +1,185 @@
+<h1>Introduction</h1>
+
+<p>The Meteorb Sorceress is a classic combination bringing together the crowd control of Cold and the firepower of Fire to create a perfectly blended character capable of tackling almost any monster in the game. One of the biggest difficulties that a Sorceress has in this game is dealing with Resistance Immunities, so by running two different elements it helps alleviate those issues. @@@D2FrozenOrb@@@ is a low skill investment option that can still bring a lot of power and thus is often used to supplement another build.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the Meteorb Sorceress. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2FrozenOrb@@@ - Max immediately, required</li>
+<li>26 points to @@@D2ColdMastery@@@ - For PvM, having Cold mastery give over 150% usually is overkill. For this reason, adding enough points to get it close to 150% should cover almost every monster you’re going to face. Maxing will help cover every monster fully, but overall it will not be too much help (since -100 is the lowest Resistance a monster can have).</li>
+<li>1+ points to @@@D2IceBolt@@@ - Synergy for @@@D2FrozenOrb@@@, required</li>
+<li>1 points to @@@D2FrozenArmor@@@ - invest when starting to teleport, required</li>
+<li>1 points to @@@D2Teleport@@@ - invest immediately at level 18, required</li>
+<li>1 points to @@@D2StaticField@@@ - invested at level 6, let the Resistancest of your plus skills increase its range, required</li>
+<li>Secondary Element</li>
+<li>20 points to @@@D2Meteor@@@ - One of the main Damage dealers, required</li>
+<li>20 points to @@@D2FireBall@@@ - One of the main Damage dealers, required</li>
+<li>20 points to @@@D2FireBolt@@@ - Synergy for Fire Skills, required</li>
+<li>1 points to @@@D2FireMastery@@@ - One point immediately, required</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Meteorb Sorceress Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Meteorb Sorceress Gear</h2>
+
+<p>The following section shows some of the most important Items for the Meteorb Sorceress. For a detailed per-slot breakdown of all Meteorb Sorceress Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2HeartOfTheOak@@@</li>
+<li>Shield: 35% @@@D2Spirit@@@ Monarch Shield</li>
+<li>Body Armor: @@@D2ChainsOfHonor@@@</li>
+<li>Helm: @@@D2HarlequinCrest@@@</li>
+<li>Belt: @@@D2ArachnidMesh@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>5%</li>
+<li>9%</li>
+<li>14%</li>
+<li>20%</li>
+<li>30%</li>
+<li>42%</li>
+<li>60%</li>
+<li>86%</li>
+<li>142%</li>
+<li>280%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>37%</li>
+<li>63%</li>
+<li>105%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+<li>86%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage.</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Infinity@@@ or Eth @@@D2Insight@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

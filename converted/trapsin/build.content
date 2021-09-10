@@ -1,0 +1,191 @@
+<h1>Introduction</h1>
+
+<p>The “Trapsin” Assassin is a crowd controlling expert who utilizes a variety of ranged abilities to keep herself safe while her traps attack enemies. She is a great overall character with decent frames, Stats, and Damage. She is one of the safest and easiest characters to play in the game and is highly recommended for newer players.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the Trapsin. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2LightningSentry@@@ - Max immediately</li>
+<li>20 points to @@@D2DeathSentry@@@ - Max immediately after @@@D2LightningSentry@@@</li>
+<li>20 points to @@@D2ShockWeb@@@ - Max Immediately after @@@D2DeathSentry@@@</li>
+<li>20 points to @@@D2ChargedBoltSentry@@@ - Maxed immediately after @@@D2ShockWeb@@@</li>
+<li>1 points to @@@D2MindBlast@@@ - control</li>
+<li>1 points to @@@D2BurstOfSpeed@@@ - invest immediately</li>
+<li>1 points to @@@D2Fade@@@ - Resistances/Damage Reduction</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Trapsin Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Trapsin Gear</h2>
+
+<p>The following section shows some of the most important Items for the Trapsin. For a detailed per-slot breakdown of all Trapsin Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2HeartOfTheOak@@@ (Hoto)</li>
+<li>Shield: 32%+ @@@D2Spirit@@@ Monarch Shield</li>
+<li>Body Armor: @@@D2Enigma@@@</li>
+<li>Helm: @@@D2HarlequinCrest@@@</li>
+<li>Belt: @@@D2ArachnidMesh@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+</ul>
+</td>
+</tr>
+</table>
+<h0>86%</h0>
+
+<p>200%</p>
+<p>4680%</p>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>8%</li>
+<li>16%</li>
+<li>27%</li>
+<li>42%</li>
+<li>65%</li>
+<li>102%</li>
+<li>174%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+<li>1</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>13%</li>
+<li>32%</li>
+<li>86%</li>
+<li>600%</li>
+<li></li>
+</ul>
+</td>
+</tr>
+</table>
+<h3>Increased Attack Speed with Flail (Attack Speed is used for laying traps, not cast rate) - This only includes Increased Attack Speed from gear. Burst of Speed will positively affect your IAS but the values are different from shown.</h3>
+
+<p>Frames to perform action</p>
+<p>14</p>
+<p>13</p>
+<p>12</p>
+<p>11</p>
+<p>10</p>
+<p>9</p>
+<p>Stat and amount required to reach frame</p>
+<p>0%</p>
+<p>6%</p>
+<p>16%</p>
+<p>30%</p>
+<p>52%</p>
+<p>89%</p>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage to help take care of light immunes. @@@D2HolyFreeze@@@ is preferred.</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Infinity@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

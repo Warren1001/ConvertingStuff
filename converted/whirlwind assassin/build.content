@@ -1,0 +1,180 @@
+<h1>Introduction</h1>
+
+<p>The @@@D2Whirlwind@@@ Assassin is a build utilizing the Runeword @@@D2Chaos@@@. It is very gear dependent and limited in its overall playstyles, but can be a lot of fun. It is a novelty build that has some use in PvP but generally isn’t used very often in PvE. By mixing in Traps she can become more viable and clear more areas at a faster pace.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the @@@D2Whirlwind@@@ Assassin. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2Venom@@@ - Adds a lot of poison Damage to your attacks, required</li>
+<li>20 points to @@@D2ClawMastery@@@ - Increased Damage, required</li>
+<li>1 points to @@@D2WeaponBlock@@@ - Can block all types of Damage including elemental, required</li>
+<li>1+ points to @@@D2BurstOfSpeed@@@ - Great for Movement and a prerequisite for @@@D2Fade@@@, required</li>
+<li>1+ points to @@@D2Fade@@@ - Great Resistances and Damage Reduction, required</li>
+<li>1 points to @@@D2CloakOfShadows@@@ - Can help in scary times, required</li>
+<li>1 points to @@@D2MindBlast@@@ - Can stun enemies for great crowd control, required</li>
+<li>1 points to @@@D2DragonFlight@@@ - Teleports you to monsters, required</li>
+<li>1+ points to @@@D2FireBlast@@@ - Synergy and prerequisite for @@@D2LightningSentry@@@, required</li>
+<li>1+ points to @@@D2ShockWeb@@@ - Synergy and prerequisite for @@@D2LightningSentry@@@, required</li>
+<li>1+ points to @@@D2ChargedBoltSentry@@@ - Synergy and prerequisite for @@@D2LightningSentry@@@, required</li>
+<li>20 points to @@@D2DeathSentry@@@ - Invest skills here first when maxing traps, required</li>
+<li>20 points to @@@D2LightningSentry@@@ - Invest skills here for solid Damage, required</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Whirlwind Assassin Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Whirlwind Assassin Gear</h2>
+
+<p>The following section shows some of the most important Items for the @@@D2Whirlwind@@@ Assassin. For a detailed per-slot breakdown of all @@@D2Whirlwind@@@ Assassin Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2Chaos@@@</li>
+<li>Body Armor: @@@D2Fortitude@@@</li>
+<li>Helm: Visionary Helm with Life/Stats/Resistances, @@@D2GuillaumesFace@@@</li>
+<li>Belt: @@@D2VerdungosHeartyCord@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+</ul>
+</td>
+</tr>
+</table>
+<h0>86%</h0>
+
+<p>200%</p>
+<p>4680%</p>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>8%</li>
+<li>16%</li>
+<li>27%</li>
+<li>42%</li>
+<li>65%</li>
+<li>102%</li>
+<li>174%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+<li>1</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>13%</li>
+<li>32%</li>
+<li>86%</li>
+<li>600%</li>
+<li></li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage. Additionally you could run an Offensive (@@@D2BlessedAim@@@) Normal or Hell Mercenary to help with your Attack Rating.</p>
+
+<ul>
+<li>Weapon: @@@D2Pride@@@ or @@@D2ReapersToll@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

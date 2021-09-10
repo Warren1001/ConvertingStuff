@@ -1,0 +1,174 @@
+<h1>Introduction</h1>
+
+<p>The @@@D2Berserk@@@ Barbarian, also known sometimes as a Pitzerker, is the best Magic Finding character in Diablo 2. The reason for this is that not only does he move quickly through areas and have high survivability with his shouts, but he has the skill Item Find that uses his Magic Find every time it successfully pops a corpse. Because of this, the number of Unique monsters that he can kill and Magic Find “Double Dip” is higher than any other character thus giving him the title of Greatest Magic Find character in the game.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the @@@D2Berserk@@@er Barbarian. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2Berserk@@@ - Main Skill used by the character, required</li>
+<li>20 points to Weapon Mastery of Choice - @@@D2SwordMastery@@@ Recommended, required</li>
+<li>1 points to @@@D2IncreasedSpeed@@@ - Great for additional Faster Run Walk, required</li>
+<li>1 points to @@@D2NaturalResistance@@@ - Adds a lot of Elemental Resistance, required</li>
+<li>20 points to @@@D2Howl@@@ - Allows you to scare off all non-Unique monsters and Synergy for @@@D2Berserk@@@, required</li>
+<li>1+ points to @@@D2Shout@@@ - Increases Defense and Synergy for @@@D2Berserk@@@, required</li>
+<li>1+ points to @@@D2BattleOrders@@@ - Increases Life and Mana, required</li>
+<li>1 points to @@@D2BattleCommand@@@ - Increases Skills by 1, required</li>
+<li>15+ points to @@@D2FindItem@@@ - Increases chance to “Double Dip”, required </li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Berserker Barbarian Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Berserker Barbarian Gear</h2>
+
+<p>The following section shows some of the most important Items for the @@@D2Berserk@@@er Barbarian. For a detailed per-slot breakdown of all @@@D2Berserk@@@er Barbarian Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2Grief@@@ (Phase Blade preferred)</li>
+<li>Body Armor: @@@D2Enigma@@@</li>
+<li>Helm: @@@D2HarlequinCrest@@@</li>
+<li>Belt: @@@D2Goldwrap@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+<li>86%</li>
+<li>200%</li>
+<li>4680%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>37%</li>
+<li>63%</li>
+<li>105%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>42%</li>
+<li>86%</li>
+<li>280%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You will want an Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary. Another option could be an Offensive (@@@D2BlessedAim@@@) Act 2 Hell Mercenary</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Insight@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

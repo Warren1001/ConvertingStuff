@@ -1,0 +1,222 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Dream Zealot Paladin is a slight twist on the classic fast hitting melee character. He utilizes the runewords Dream to adjust his attacks from being purely physical to adding in lightning damage. This gives him a little bit more coverage in the monsters he fights and overall is just simply a different style of the Zealot. A strong melee character that can play through a lot of PvE content but does require some gear setup first.
+2. Quick Reference
+2.1. Skill Build
+NOTE: You will either be running Fanaticism or Conviction. Both have pros and cons and depend on your gear. Also we do not skill Holy Shock, the synergy points are for the auras from the items.
+
+
+* Resist Lightning - 20 Points - Synergy for Holy Shock, required
+* Salvation - 20 Points - Synergy for Holy Shock, required
+* Sacrifice - 20 Points - Synergy for Zeal, required
+* Zeal - 20 Points - Main Damage dealer, invest in Sacrifice first for more damage or Zeal for more attack rating, required
+* Fanaticism - 20 Points - One main Aura used for this character, optional
+* Conviction - 20 Points - One main Aura used for this character, optional
+* Sanctuary - 1 Point - Prerequisite for Conviction, optional
+* Thorns - 1 Point - Prerequisite for Conviction, optional
+* Holy Freeze - 1 Point - Prerequisite for Conviction, optional
+* Holy Fire - 1 Point - Prerequisite for Conviction, optional
+* Holy Shield - 1+ Points - Great for Max Block, required
+* Blessed Hammer - 1 Point - Prerequisite for Holy Shield, required
+* Holy Bolt - 1 Point - Prerequisite for Holy Shield, required
+* Charge - 1 Point - Prerequisite for Holy Shield, required
+* Smite - 1 Point - Prerequisite for Holy Shield, required
+* Concentration - 1 Point - Prerequisite for Fanaticism, optional
+* Blessed Aim - 1 Point - Prerequisite for Fanaticism, optional
+* Might - 1 Point - Prerequisite for Fanaticism, optional
+
+
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for max block with Holy Shield active
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Grief Phase Blade
+* Weapon Swap: CTA + Spirit
+* Shield: Dream
+* Body Armor: Fortitude
+* Helm: Dream
+* Gloves: Laying of Hands
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Dual Leech Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: Paladin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Magic Find Build
+* Weapon: Last Wish Phase Blade
+* Weapon Swap: CTA + Spirit
+* Shield: Dream
+* Body Armor: Enigma
+* Helm: Dream
+* Gloves: Laying of Hands
+* Boots: War Travelers
+* Belt: Goldwrap
+* Ring 1: Ravenfrost
+* Ring 2: Nagelring or Dual Leech Ring if needed
+* Amulet: Highlord’s Wrath
+* Charm 1: Paladin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms
+* Charm 4: 7% Magic Find Small Charms
+* Charm 4: Small Charms with Resistances, FHR, depending on needs
+Ubers Build Items
+* Weapon: Grief Phase Blade, Eth Death, Last Wish
+* Weapon Swap: CTA + Spirit
+* Shield: Dream
+* Body Armor: Fortitude
+* Helm: Dream
+* Gloves: Dracul’s Grasp
+* Boots: Gore Rider, Goblin Toe
+* Belt: Thundergod’s Vigor
+* Ring 1: Ravenfrost
+* Ring 2: Dwarf Star, Ravenfrost, Wisp Projector
+* Amulet: Highlord’s Wrath
+* Charm 1: Paladin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+2.4. Breakpoints
+2.4.1.2 Faster Hit Recovery Breakpoints 
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	2.4.1. Faster Hit Recovery Breakpoints (Spears and Staves)
+
+
+Frames to perform action
+	
+
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	
+
+	0%
+	3%
+	7%
+	13%
+	20%
+	32%
+	48%
+	75%
+	129%
+	280%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	9%
+	18%
+	30%
+	48%
+	75%
+	125%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	
+
+	
+
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.4.3.2 Faster Block Rate Breakpoints (With Holy Shield)
+...
+Frames to perform action
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	
+
+	
+
+	
+
+	0%
+	86%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage. I prefer a Might Mercenary. Additionally if you are running Conviction you can have an Act 1 Cold Mercenary to run Faith.
+2.5.1. Mercenary Gear
+Optimal Act 1 Mercenary Gear
+* Weapon: Faith Diamond Bow or Great Bow
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Optimal Act 2 Mercenary Gear
+* Weapon: Eth Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Act 2 Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

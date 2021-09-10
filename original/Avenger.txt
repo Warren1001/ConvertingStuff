@@ -1,0 +1,220 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Avenger Paladin is a somewhat gear dependent character that runs Conviction and Vengeance to deal Physical and Elemental damage to mobs. Because of this large mixture, he is able to kill most monsters in the game making him fun for people who hate Immunities. He does not have any AOE skill so while his Single Target damage is nice, avoiding large amounts of monsters at once is optimal.
+2. Quick Reference
+2.1. Skill Build
+Max the Synergies in whatever order you prefer. Resist Lightning would be a solid first choice.
+
+
+* Vengeance - 20 Points - Main Damage Skill, required
+* Zeal - 1 Point - Prerequisite for Vengeance, required
+* Sacrifice - 1 Point - Prerequisite for Vengeance, required
+* Holy Shield - 1 Point - Great for Block Chance and Frames, required
+* Blessed Hammer - 1 Point - Prerequisite for Holy Shield, required
+* Charge - 1 Point - Prerequisite for Holy Shield, required
+* Holy Bolt - 1 Point - Prerequisite for Holy Shield, required
+* Smite - 1 Point - Prerequisite for Holy Shield, required
+* Conviction - 20 Points - Main Damage Aura, required
+* Sanctuary - 1 Point - Prerequisite for Conviction, required
+* Holy Freeze - 1 Point - Prerequisite for Conviction, required
+* Thorns - 1 Point - Prerequisite for Conviction, required
+* Holy Fire - 1 Point - Prerequisite for Conviction, required
+* Might - 1 Point - Prerequisite for Conviction, required
+* Resist Fire - 20 Points - Synergy for Vengeance and increases Max overall Fire Resistance., required
+* Resist Cold - 20 Points - Synergy for Vengeance and increases Max overall Cold Resistance, required
+* Resist Lightning - 20 Points - Synergy for Vengeance and increases Max overall Lightning Resistance, required
+* Salvation - 1+ Points - Useful in dangerous Elemental Areas and the last Synergy to max as it does not give as much damage as the other 3 Synergies
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for max block
+Vitality
+Everything else into Vitality
+Energy
+Nothing
+2.3. Gear
+Dual Dream Damage Build
+* Weapon: Eth Breath of the Dying
+* Weapon Swap: Call to Arms + Spirit
+* Shield: Dream
+* Body Armor: Chains of Honor
+* Helm: Dream
+* Gloves: Dracul’s Grasp
+* Boots: Gore Rider
+* Belt: String of Ears
+* Ring 1: Ravenfrost
+* Ring 2: Dual Leech Ring
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: PaladinTorch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Combat Skiller Grand Charms w/ Life
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+High Physical Damage Build
+* Weapon: Eth Death
+* Weapon Swap: Call to Arms + Spirit
+* Shield: Eth Exile
+* Body Armor: Fortitude
+* Helm: Guillaume’s Face
+* Gloves: Laying of Hands
+* Boots: Gore Rider
+* Belt: String of Ears
+* Ring 1: Ravenfrost
+* Ring 2: Dual Leech Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: PaladinTorch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Combat Skiller Grand Charms w/ Life
+* Charm 4: Max Damage/Attack Rating/Life Charms
+* Charm 5: 10 small charms with life, res, mana, fhr depending on needs
+Budget Build Items
+* Weapon: Baranar’s Star, Headstriker, Oath, Stormlash, Lightsaber
+* Shield: Herald of Zakarum, Spirit, Rhyme, 4x Perfect Diamond Paladin Shield
+* Body Armor: Duress, Ormus, Duriel’s Shell, Spirit Shroud, Vipermagi
+* Helm: Lore, Rockstopper, Tarnhelm, Vampire Gaze, Peasant Crown
+* Gloves: Bloodfist, Sander’s Taboo, Soul Drainer, Death’s Hand
+* Boots: Waterwalk, Infernostride, Goblin Toe, Hsarus Boots
+* Belt: String of Ears, Thundergod’s Vigor, Trang-Oul’s Girth, Goldwrap, Nightsmoke, Death’s Guard
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost, Dwarf Star, Life Leech Rare Ring
+* Amulet: Saracen’s Chance, Seraph’s Hymn, Eye of Etlich, The Cat’s Eye, +3 Paladin Combat Skills
+* Charm 1: Any Torch for stats if can’t get Paladin
+* Charm 2: Annihilus
+* Charm 3: Paladin Combat Skiller Grand Charms
+* Charm 4: Paladin Offensive Aura Skiller Grand Charms
+* Charm 5: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1.2 Faster Hit Recovery Breakpoints 
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	2.4.1. Faster Hit Recovery Breakpoints (Spears and Staves)
+
+
+Frames to perform action
+	
+
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	
+
+	0%
+	3%
+	7%
+	13%
+	20%
+	32%
+	48%
+	75%
+	129%
+	280%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	9%
+	18%
+	30%
+	48%
+	75%
+	125%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	
+
+	
+
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.4.3.2 Faster Block Rate Breakpoints (With Holy Shield)
+...
+Frames to perform action
+	
+
+	
+
+	
+
+	
+
+	
+
+	2
+	1
+	Stat and amount required to reach frame
+	
+
+	
+
+	
+
+	
+
+	
+
+	0%
+	86%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage. Additionally, you can run an Act 1 Mercenary with Faith Runeword to increase your Attack speed and Damage.
+2.5.1. Mercenary Gear
+Optimal Act 1 Mercenary Gear
+* Weapon: Faith
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Optimal Act 2 Mercenary Gear
+* Weapon: Eth Insight
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

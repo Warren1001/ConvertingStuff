@@ -1,0 +1,173 @@
+<h1>Introduction</h1>
+
+<p>The Goldfind Barbarian is a later game build designed to collect as much Gold as fast as possible. This build is actually very low budget and focuses on increasing the Gold Find of the Barbarian while giving a Mercenary enough Damage to clear out the mobs. While not the most popular build, it is extremely fun to pick up massive sums of gold and satisfies any gambling habit.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the Goldfind Barbarian. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2BattleOrders@@@ - Increases Life and Mana, required</li>
+<li>20 points to @@@D2Shout@@@ - Increases Defense, required</li>
+<li>20 points to @@@D2WarCry@@@ - Main Damage dealer and stunner, required</li>
+<li>1 points to @@@D2BattleCommand@@@ - Adds one more skill, required</li>
+<li>1+ points to @@@D2BattleCry@@@ - Lowers Defense and Damage, required</li>
+<li>1 points to @@@D2Taunt@@@ - Useful for dragging ranged mobs into your @@@D2WarCry@@@, required</li>
+<li>10+ points to @@@D2FindItem@@@ - Useful for “Double Dipping” on Items and Gold, required</li>
+<li>1 points to @@@D2IncreasedSpeed@@@ - Increases Barbarian movement, required</li>
+<li>1+ points to @@@D2NaturalResistance@@@ - Increases Resistances greatly, required</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Goldfind Barbarian Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Goldfind Barbarian Gear</h2>
+
+<p>The following section shows some of the most important Items for the Goldfind Barbarian. For a detailed per-slot breakdown of all Goldfind Barbarian Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Body Armor: @@@D2Wealth@@@</li>
+<li>Helm: @@@D2ImmortalKingsWill@@@ with 2 Lem Runes</li>
+<li>Belt: @@@D2Goldwrap@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+<li>86%</li>
+<li>200%</li>
+<li>4680%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>37%</li>
+<li>63%</li>
+<li>105%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+<li>2</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>42%</li>
+<li>86%</li>
+<li>280%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage. Generally a @@@D2Might@@@ Mercenary is preferred so he has faster kill potential.</p>
+
+<ul>
+<li>Weapon: Eth Tombreaver with 3 Lem Runes</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Eth @@@D2CrownOfThieves@@@ with Lem Rune</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

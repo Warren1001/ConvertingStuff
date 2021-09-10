@@ -1,0 +1,182 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Bone Necromancer is a classic build that can take on a large variety of content due to its main damage type being Magic. It is also extremely safe running Bone Armor and having Bone Prison available when getting overrun. Definitely a top tier build that does not require a lot of expensive gear to be effective.
+2. Quick Reference
+2.1. Skill Build
+* Bone Spirit - 20 Points - Main single target damage dealer, required
+* Bone Spear - 20 Points - Main damage dealer, required
+* Bone Prison - 20 Points - Synergy and useful for Crowd Control, required
+* Bone Wall - 20 Points - Synergy, required
+* Corpse Explosion - 1+ Points - Great for clearing mobs, required
+* Teeth - 20 Points - Synergy, required
+* Bone Armor - 1 point -Prerequisite for Bone Wall and also useful for physical damage absorption, required
+* Amplify Damage - 1 Point - Useful for increasing Corpse Explosion damage, requjired
+* Weaken - 1 Point - Prerequisite for Decrepify, optional
+* Terror - 1 Point - Prerequisite for Decrepify, optional
+* Decrepify - 1 Point - Useful for crowd control if having difficulty or on super budget gear, optional
+* Clay Golem - 1 Point - Can be very helpful in tanking and slowing bosses, optional
+* Golem Mastery - 1 Point - Increases tankiness of Golem, optional
+* Summon Resist - 1 Point - Increases Resistances for the Golem, optional
+2.2. Attributes
+Strength
+Enough strength for gear (156 total)
+Dexterity
+Enough for gear unless running max block with Homunculus
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: White Wand
+* Weapon Swap: CTA + Spirit
+* Shield: 35% Spirit Monarch or Homunculus if going max block
+* Body Armor: Enigma
+* Helm: Shako or 2 Necromancer 20 FCR Circlet
+* Gloves: Trangs or Magefist
+* Boots: Eth Sandstorm Treks
+* Belt: Arachnid Mesh
+* Ring 1: Stone of Jordan, Bul Kathos, 10 FCR Ring w/ Life/Stats/Res
+* Ring 2: Stone of Jordan, Bul Kathos, 10 FCR Ring w/ Life/Stats/Res
+* Amulet: Mara’s Kaleidoscope, Skills Amulet w/ FCR to hit 125 Breakpoint
+* Charm 1: Necromancer Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Skiller GCs w/ Life or FHR to hit 86%
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Magic Find Build
+* Weapon: White Wand
+* Weapon Swap: CTA + Spirit
+* Shield: 35% Spirit Monarch
+* Body Armor: Enigma
+* Helm: Shako w/ Ist rune or Perfect Topaz
+* Gloves: Chance Guards
+* Boots: War Travelers
+* Belt: Arachnid Mesh
+* Ring 1: Nagelring
+* Ring 2: Nagelring
+* Amulet: Mara’s Kaleidoscope, MF Amulet with Necromancer Skills
+* Charm 1: Necromancer Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Charm 4: 5% FHR small charm to hit 56% Breakpoint
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+* Weapon: White Wand, Spirit Sword, Any Necromancer Wand with +Skills
+* Shield: Spirit Shield, Ancient’s Pledge, Rhyme, Lidless
+* Body Armor: Vipermagi, Que Hagans, Stealth
+* Helm: Lore, Rockstopper, Tarnhelm
+* Gloves: Magefist, Frostburn, Chance Guards
+* Boots: Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: 10 FCR w/ Life/Res/Stats, Nagelring
+* Ring 2: 10 FCR w/ Life/Res/Stats, Nagelring
+* Amulet: Eye of Etlich, 10 FCR w/ +3 Poison and Bone Skills
+* Charm 1: Any Torch for stats if can’t get Necromancer
+* Charm 2: Annihilus
+* Charm 3: Poison and Bone skiller GCs
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	0%
+	5%
+	10%
+	16%
+	26%
+	39%
+	56%
+	86%
+	152%
+	377%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	9%
+	18%
+	30%
+	48%
+	75%
+	125%
+	2.4.2. Faster Cast Rate Breakpoints (Vampire Form)
+
+
+Frames to perform action
+	23
+	22
+	21
+	20
+	19
+	18
+	17
+	16
+	15
+	14
+	13
+	Stat and amount required to reach frame
+	0%
+	6%
+	11%
+	18%
+	24%
+	35%
+	48%
+	65%
+	86%
+	120%
+	180%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	6%
+	13%
+	20%
+	32%
+	52%
+	86%
+	174%
+	600%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage. Holy Freeze will lower the amount of corpses you can explode but on this character it will not be too awful and will provide some safety.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight or Reaper’s Toll
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

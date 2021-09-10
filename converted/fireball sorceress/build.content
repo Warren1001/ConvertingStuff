@@ -1,0 +1,183 @@
+<h1>Introduction</h1>
+
+<p>The Fire Sorceress is a very strong but fragile character who will have good success early in the game but run into some Fire Immune monsters in Hell that will prove difficult. She can be very solid for farming a few specific areas such as Mephisto, Andariel, Cows, and more. However, to really cover a lot of ground she will need to add another element into her Damage type.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the Fireball Sorceress. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2FireBall@@@ - Invest immediately, main Damage dealer, required</li>
+<li>20 points to @@@D2Meteor@@@ - Invest immediately and max out immediately, required</li>
+<li>20 points to @@@D2FireBolt@@@ - Synergy for Fire Skills, required</li>
+<li>20 points to @@@D2FireMastery@@@ - Max out after maxing other Fire Skills, required</li>
+<li>1 points to @@@D2FrozenArmor@@@ - invest when starting to teleport, required</li>
+<li>1 points to @@@D2Teleport@@@ - invest immediately at level 18, required</li>
+<li>1 points to @@@D2StaticField@@@ - invested at level 6, let the Resistancest of your plus skills increase its range, required</li>
+<li>Second Element</li>
+<li>1 points to @@@D2LightningMastery@@@ - Potential second element Mastery</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Fireball Sorceress Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Fireball Sorceress Gear</h2>
+
+<p>The following section shows some of the most important Items for the Fireball Sorceress. For a detailed per-slot breakdown of all Fireball Sorceress Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2EschutasTemper@@@, @@@D2HeartOfTheOak@@@</li>
+<li>Shield: 35% @@@D2Spirit@@@ Monarch Shield</li>
+<li>Body Armor: @@@D2ChainsOfHonor@@@</li>
+<li>Helm: @@@D2HarlequinCrest@@@</li>
+<li>Belt: @@@D2ArachnidMesh@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>5%</li>
+<li>9%</li>
+<li>14%</li>
+<li>20%</li>
+<li>30%</li>
+<li>42%</li>
+<li>60%</li>
+<li>86%</li>
+<li>142%</li>
+<li>280%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>20%</li>
+<li>37%</li>
+<li>63%</li>
+<li>105%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>7%</li>
+<li>15%</li>
+<li>27%</li>
+<li>48%</li>
+<li>86%</li>
+<li>200%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage.</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Insight@@@ or @@@D2ReapersToll@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

@@ -1,0 +1,157 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Bladesin is a quirky build of the Assassin that uses her rarely-used Blade Trap skills. These Traps are based on her physical damage so having a solid weapon is highly recommended. Overall this character struggles through the game but with high end gear can be playable.
+2. Quick Reference
+2.1. Skill Build
+* Blade Fury - 20 Points - Main Damage Skill, required
+* Blade Sentinel - 1 Point - Prerequisite for Blade Fury, required
+* Wake of Fire - 1 Point - Prerequisite for Blade Fury, required
+* Fire blast - 1 Point - Prerequisite for Blade Fury, required
+* Blade Shield - 1 Point - Close up damage and protection, optional
+* Venom - 20 Points - Increases overall damage, required
+* Mind Blast - 1 Point - Conversion + Crowd Control, required
+* Cloak of Shadows - 1 Point - Crowd Control, required
+* Psychic Hammer - 1 Point - Prerequisite for Cloak of Shadows
+* Fade - 1+ Points - Increased Resistances and Physical Damage Reduction, required
+* Burst of Speed - 1 Point - Prerequisite to Fade, required
+* Claw Mastery - 1+ Points - Prerequisite to Burst of Speed and if using Claws can put more points here, required
+* Shadow Master - 20 Points - Pick this or Shadow Warrior, optional
+* Shadow Warrior - 20 Points - Pick this or Shadow Master, optional
+* Weapon Block - 1 Point - Prerequisite to Shadow Warrior, required
+* Death Sentry - 20 Points - Useful for blowing up dead corpses and AOE, required
+* Lightning Sentry - 1 Point - Prerequisite for Death Sentry, required
+* Charged Bolt Sentry - 1 Point - Prerequisite for Death Sentry, required
+* Shock Web - 1 Point - Prerequisite for Death Sentry, required
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing
+
+
+2.3. Gear
+Shield Build
+* Weapon: Eth Death Berserker Axe, Last Wish
+* Weapon Swap: Call to Arms + Spirit
+* Shield: Phoenix
+* Body Armor: Fortitude
+* Helm: Guillaume’s Face
+* Gloves: Steelrend, Laying of Hands
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings
+* Charm 1: AssassinTorch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms
+* Charm 4: Trap Skiller Grand Charms with Life
+* Charm 5: 10 small charms with life, res, mana, fhr depending on needs
+Dual Claw Build
+* Weapon: Fury
+* Weapon 2: Jade Talon (If running Burst of Speed), Bartucs (If Running Fade)
+* Weapon Swap: Call to Arms + Spirit
+* Body Armor: Fortitude
+* Helm: Guillaume’s Face
+* Gloves: Steelrend, Laying of Hands
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings
+* Charm 1: AssassinTorch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms
+* Charm 4: Trap Skiller Grand Charms with Life
+* Charm 5: 10 small charms with life, res, mana, fhr depending on needs
+Budget Build Items
+* Weapon: Eth Fleshripper, Ghostflame, Strength, Black
+* Shield: Rhyme, Spirit Shield, Ancient’s Pledge, Lidless
+* Body Armor: Duress, Duriel’s Shell, Treachery, Smoke, Lionheart, Vipermagi
+* Helm: Guillaume’s Face, Lore, Rockstopper, Tarnhelm
+* Gloves: Laying of Hands, Sander’s Taboo, Bloodfist
+* Boots: Goblin Toe, Waterwalk, Infernostride, Hsarus’ Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke, Hsarus’ Iron Stay
+* Ring 1: Ravenfrost, Rare Ring with Life/Resistances/Stats
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings, Atma’s Scarab
+* Charm 1: Any Torch for stats if can’t get Assassin
+* Charm 2: Annihilus
+* Charm 3: Max Damage/Attack Rating/Life Charms
+* Charm 4: Trap Skiller Grand Charms
+* Charm 5: 10 small charms with life, res, mana, fhr depending on needs
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	 86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	8%
+	16%
+	27%
+	42%
+	65%
+	102%
+	174%
+	2.4.3. Faster Block Rate Breakpoints
+
+
+Frames to perform action
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety or more Damage.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Pride or Infinity
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

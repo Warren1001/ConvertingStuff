@@ -1,0 +1,150 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Berserk Barbarian, also known sometimes as a Pitzerker, is the best Magic Finding character in Diablo 2. The reason for this is that not only does he move quickly through areas and have high survivability with his shouts, but he has the skill Item Find that uses his Magic Find every time it successfully pops a corpse. Because of this, the number of unique monsters that he can kill and Magic Find “Double Dip” is higher than any other character thus giving him the title of Greatest Magic Find character in the game.
+2. Quick Reference
+2.1. Skill Build
+* Berserk - 20 Points - Main Skill used by the character, required
+* Concentrate - 1 Point - Prerequisite for Berserk, required
+* Stun - 1 Point - Prerequisite for Berserk, required
+* Bash - 1 Point - Prerequisite for Berserk, required
+* Weapon Mastery of Choice - 20 Points - Sword Mastery Recommended, required
+* Increased Stamina - 1 Point - Prerequisite for Increased Speed, required
+* Increased Speed - 1 Point - Great for additional Faster Run Walk, required
+* Iron Skin - 1 Point - Prerequisite for Natural Resistance, required
+* Natural Resistance - 1 Point - Adds a lot of Elemental Resistance, required
+* Find Potion - 1 Point - Prerequisite for Find Item, required
+* Howl - 20 Points - Allows you to scare off all non-Unique monsters and Synergy for Berserk, required
+* Shout - 1+ Points - Increases Defense and Synergy for Berserk, required
+* Battle Orders - 1+ Points - Increases Life and Mana, required
+* Battle Command - 1 Point - Increases Skills by 1, required
+* Find Item - 15+ Points - Increases chance to “Double Dip”, required 
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Note: Do not use any cold damage gear or Charms as you want the corpses so you can use Find Item. 
+Thresh/Pindle Magic Find Build
+* Weapon: Grief (Phase Blade preferred)
+* Weapon Offhand: 6 Isted Phase Blade
+* Weapon Swap: Wizardspike + Wizardspike
+* Body Armor: Enigma
+* Helm: Shako
+* Gloves: Chance Guards
+* Boots: War Traveler
+* Belt: Goldwrap
+* Ring 1: Nagelring
+* Ring 2: Nagelring or 10 FCR Ring to hit 105 Breakpoint
+* Amulet: Highlord’s Wrath or 5 FCR Amulet to hit 105 Breakpoint
+* Charm 1: BarbarianTorch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Rest of Charms: 7% mf small charms
+Pit/Chaos Magic Find Build
+* Weapon: Grief (Phase Blade preferred)
+* Weapon Offhand: 6 Isted Phase Blade
+* Weapon Swap: Wizardspike + Wizardspike
+* Body Armor: Enigma
+* Helm: Shako with Cham Rune
+* Gloves: Chance Guards
+* Boots: War Traveler
+* Belt: Goldwrap, Trang Oul’s Girth if no Cham in Shako
+* Ring 1: Nagelring
+* Ring 2: Nagelring or 10 FCR Ring to hit 105 Breakpoint
+* Amulet: Highlord’s Wrath or 5 FCR Amulet to hit 105 Breakpoint
+* Charm 1: BarbarianTorch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+NOTE: Finding a source of Cannot Be Frozen is important. Make sure it is on 1 piece of your gear.
+* Weapon: Oath, Honor, Black, Aldur’s Rhythm, Nord’s Tenderizer, Fleshrender, Sureshrill Frost, Zakarum’s Hand
+* Weapon Offhand: Blade of Ali Baba
+* Weapon Swap: Naj’s Puzzler, Teleport Charges Staff, 2x +3 Warcries Spears
+* Body Armor: Skullder’s Ire, Duriel’s Shell, Spirit Shroud, Wealth, Treachery, Vipermagi, 4os Perfect Topaz, Stealth
+* Helm: Guillaume's Face, Tarnhelm, Lore, Rockstopper, 3os Perfect Topaz
+* Gloves: Chance Guards, Laying of Hands, Bloodfist, Sander’s Taboo
+* Boots: War Traveler, Gore Riders, Waterwalk, Infernostride, Hsarus Boots
+* Belt: Trang Oul’s Girth, Death’s Guard, Goldwrap, String of Ears, Nightsmoke
+* Ring 1: Nagelring
+* Ring 2: Nagelring, Rare Ring with Attack Rating, Leech, Life, Resistances, Stats
+* Amulet: Highlord’s Wrath, Cat’s Eye, Rare Amulet with Life, Resistances, Stats
+* Charm 1: Any Torch for stats if can’t get Barbarian
+* Charm 2: Annihilus
+* Charm 3: Any Magic Find Charms
+* Charm 4: Any Barb Skiller Grand Charms
+* Charm 5: Any Charms with Max Damage, Attack Rating, Life
+* Charm 6: Any Charms with Res/FHR/Mana/Strength
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	37%
+	63%
+	105%
+	200%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	42%
+	86%
+	280%
+	2.5. Mercenary
+You will want an Offensive (Might) Act 2 Nightmare Mercenary. Another option could be an Offensive (Blessed Aim) Act 2 Hell Mercenary
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

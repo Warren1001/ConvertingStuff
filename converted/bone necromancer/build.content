@@ -1,0 +1,225 @@
+<h1>Introduction</h1>
+
+<p>The Bone Necromancer is a classic build that can take on a large variety of content due to its main Damage type being Magic. It is also extremely safe running @@@D2BoneArmor@@@ and having @@@D2BonePrison@@@ available when getting overrun. Definitely a top tier build that does not require a lot of expensive gear to be effective.</p>
+
+<h1>Quick Reference</h1>
+
+<h2>Skill Build</h2>
+
+<p>The following section shows the core skills for the Bone Necromancer. For a detailed breakdown of all core and optional skills as well as the recommended order for allocating skill points, refer to the Skills section of this guide.</p>
+
+<ol>
+<li>1 point to all prerequisites</li>
+<li>20 points to @@@D2BoneSpirit@@@ - Main single target Damage dealer, required</li>
+<li>20 points to @@@D2BoneSpear@@@ - Main Damage dealer, required</li>
+<li>20 points to @@@D2BonePrison@@@ - Synergy and useful for Crowd Control, required</li>
+<li>20 points to @@@D2BoneWall@@@ - Synergy, required</li>
+<li>1+ points to @@@D2CorpseExplosion@@@ - Great for clearing mobs, required</li>
+<li>20 points to @@@D2Teeth@@@ - Synergy, required</li>
+<li>1 points to @@@D2BoneArmor@@@ - -Prerequisite for @@@D2BoneWall@@@ and also useful for physical Damage absorption, required</li>
+<li>1 points to @@@D2AmplifyDamage@@@ - Useful for increasing @@@D2CorpseExplosion@@@ Damage, requjired</li>
+</ol>
+
+<div class="centered">
+  <a class="highslide map" href="@@@IMG_D2:builds/CHANGEME-skill-tree.jpg@@@" onclick="return hs.expand(this, { anchor: 'center' })">
+    <img alt="Bone Necromancer Skills" src="@@@IMG_D2:builds/CHANGEME-skill-tree-small.jpg@@@" />
+  </a>
+</div>
+
+<p>CHANGEME</p>
+
+<h2>Stat Points and Attributes</h2>
+
+<table>
+<tr>
+<td>Strength</td>
+<td>Dexterity</td>
+<td>Vitality</td>
+<td>Energy</td>
+</tr>
+<tr>
+<td>Enough for Gear</td>
+<td>Enough for Gear</td>
+<td>Everything Else</td>
+<td>None</td>
+</tr>
+</table>
+
+<h2>Bone Necromancer Gear</h2>
+
+<p>The following section shows some of the most important Items for the Bone Necromancer. For a detailed per-slot breakdown of all Bone Necromancer Items and alternative builds, refer to the Gear section of this guide.</p>
+
+<ul>
+<li>Weapon: @@@D2White@@@ Wand</li>
+<li>Shield: 35% @@@D2Spirit@@@ Monarch Shield or @@@D2Homunculus@@@ if going max block</li>
+<li>Body Armor: @@@D2Enigma@@@</li>
+<li>Helm: @@@D2HarlequinCrest@@@ or 2 Necromancer 20 Faster Cast Rate Circlet</li>
+<li>Belt: @@@D2ArachnidMesh@@@</li>
+</ul>
+
+<h2>Breakpoints</h2>
+
+<h3>Faster Hit Recovery Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>5%</li>
+<li>10%</li>
+<li>16%</li>
+<li>26%</li>
+<li>39%</li>
+<li>56%</li>
+<li>86%</li>
+<li>152%</li>
+<li>377%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+<li>12</li>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>9%</li>
+<li>18%</li>
+<li>30%</li>
+<li>48%</li>
+<li>75%</li>
+<li>125%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Cast Rate Breakpoints (Vampire Form)</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>23</li>
+<li>22</li>
+<li>21</li>
+<li>20</li>
+<li>19</li>
+<li>18</li>
+<li>17</li>
+<li>16</li>
+<li>15</li>
+<li>14</li>
+<li>13</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>6%</li>
+<li>11%</li>
+<li>18%</li>
+<li>24%</li>
+<li>35%</li>
+<li>48%</li>
+<li>65%</li>
+<li>86%</li>
+<li>120%</li>
+<li>180%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h3>Faster Block Rate Breakpoints</h3>
+
+<table>
+<tr>
+<td><center><h3>Frames to perform action</h3></center></td>
+<td><center><h3>Stat and amount required to reach frame</h3></center></td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>11</li>
+<li>10</li>
+<li>9</li>
+<li>8</li>
+<li>7</li>
+<li>6</li>
+<li>5</li>
+<li>4</li>
+<li>3</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>0%</li>
+<li>6%</li>
+<li>13%</li>
+<li>20%</li>
+<li>32%</li>
+<li>52%</li>
+<li>86%</li>
+<li>174%</li>
+<li>600%</li>
+</ul>
+</td>
+</tr>
+</table>
+
+<h2>Mercenary</h2>
+
+<p>You can either choose a Defensive (@@@D2HolyFreeze@@@) or Offensive (@@@D2Might@@@) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added Damage. @@@D2HolyFreeze@@@ will lower the amount of corpses you can explode but on this character it will not be too awful and will provide some safety.</p>
+
+<ul>
+<li>Weapon: Eth @@@D2Insight@@@ or @@@D2ReapersToll@@@</li>
+<li>Body Armor: Eth @@@D2Fortitude@@@</li>
+<li>Helm: Ral’d Eth @@@D2AndarielsVisage@@@</li>
+</ul>
+
+<h2>Early Leveling</h2>
+
+<p>CHANGEME</p>
+

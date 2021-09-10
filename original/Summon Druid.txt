@@ -1,0 +1,317 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Summoner Druid is a very uncommon build as most Druids will end up focusing their skills in the Elemental or Shapeshifting Tree while only using Summons as support. That being said, if a player focuses all of their efforts into the Summoning Tree they can create a build that is effective enough to clear the game while being decently safe. 
+
+
+One of the hidden traits of the Druid Summoning Skill Tree is that Soft points (Points from +Skills on items) actually improve Synergies for Skills as well as the main Skill. This only applies to the Druid Summoning Tree and no other Skill Tree in the game of Diablo 2. This makes getting + to Skills gear even more important for this character than most others.
+2. Quick Reference
+2.1. Skill Build
+* Summon Grizzly - 20 Points - Damage Synergy for your Summons, required
+* Summon Dire Wolf - 20 Points - Main skill used. Invest immediately, required
+* Summon Spirit Wolf - 20 Points - Attack Rating and Defense for your summons, required
+* Oak Sage - 20 Points - Big Life Boost for you and your Summons. You will either run this or Heart of the Wolverine, optional
+* Heart of the Wolverine - 20 Points - Damage and Attack Rating for you and your Summons. You will either run this or Oak Sage, optional
+* Summons Raven - 20 Points - Blinds enemies, optional
+* Werebear - 1 Point - Useful to boost your life and allow for Shock Wave, optional
+* Werewolf - 1 Point - Prerequisite for Lycanthropy. Not needed to skill if running Beast Runeword, optional
+* Lycanthropy - 1 Point - Useful for even more Life in Werebear form. Not needed to skill if running Beast Runeword, optional
+* Maul - 1 Point - Prerequisite for Shock Wave, optional
+* Shock Wave - 1 Point - Useful for AOE stunning mobs when in Werebear form, optional
+2.2. Attributes
+Strength
+Enough for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing
+2.3. Gear
+Damage Build
+* Weapon: Beast
+* Weapon Swap: CTA + Spirit
+* Shield: Spirit Monarch
+* Body Armor: Enigma
+* Helm: Jalal’s Mane, Shako
+* Gloves: Trang Oul’s Claws
+* Boots: Eth Sandstorm Treks
+* Belt: Arachnid Mesh
+* Ring 1: Stone of Jordan or Bul Kathos
+* Ring 2: Stone of Jordan or Bul Kathos
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Druid Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 9x Skiller Grand Charms w/ Life
+* Charm 4: 10 small charms with life, res, mana, fhr depending on needs
+Magic Find Build
+* Weapon: Beast
+* Weapon Swap: CTA + Spirit
+* Shield: Spirit Monarch
+* Body Armor: Enigma
+* Helm: Shako
+* Gloves: Chance Guards
+* Boots: War Traveler
+* Belt: Arachnid Mesh or Goldwrap
+* Ring 1: Nagelring or Stone of Jordan
+* Ring 2: Nagelring or Stone of Jordan
+* Amulet: Mara’s Kaleidoscope
+* Charm 1: Druid Torch
+* Charm 2: Annihilus Charm
+* Charm 3: 40% MF Gheeds
+* Charm 4: Skiller Grand Charms until you feel damage is strong enough
+* Rest of Charms: 7% mf small charms
+Budget Build Items
+* Weapon: Heart of the Oak, Spirit, Dark Clan Crusher, Fleshrender
+* Shield: Spirit Shield, Lidless, Sigon’s Guard, Ancient’s Pledge, Rhyme
+* Body Armor: Rain, Vipermagi, Silks of the Victor, Que Hagans, Spirit Shroud, Smoke, Stealth
+* Helm: Lore, Tarnhelm, Peasant Crown, Rockstopper
+* Gloves: Bloodfist, Sander’s Taboo, Magefist, Frostburn
+* Boots: Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Nagelring, Life/Resistance/Stats Ring
+* Ring 2: Nagelring, Life/Resistance/Stats Ring
+* Amulet: +3 Summoning Skills, Seraph’s Hymn, Highlord’s Wrath, Eye of Etlich
+* Charm 1: Any Torch for Stats if can’t get Druid
+* Charm 2: Annihilus
+* Charm 3: Summoning Druid Skiller GCs
+* Charm 4: Any Charms with Life/Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	6
+	4
+	Stat and amount required to reach frame
+	0%
+	5%
+	10%
+	16%
+	26%
+	39%
+	56%
+	86%
+	152%
+	377%
+	2.4.1.2 Faster Hit Recovery Breakpoints (When holding 1 handed weapon)
+
+
+Frames to perform action
+	14
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	0%
+	3%
+	7%
+	13%
+	19%
+	29%
+	42%
+	63%
+	99%
+	174%
+	456%
+	2.4.1.3 Faster Hit Recovery Breakpoints (Wolf Form)
+
+
+Frames to perform action
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	42%
+	86%
+	280%
+	2.4.1.4 Faster Hit Recovery Breakpoints (Bear Form)
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	0%
+	5%
+	10%
+	16%
+	24%
+	37%
+	54%
+	86%
+	152%
+	360%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	18
+	17
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	Stat and amount required to reach frame
+	0%
+	4%
+	10%
+	19%
+	30%
+	46%
+	68%
+	99%
+	163%
+	2.4.2.2 Faster Cast Rate Breakpoints (Wolf Form)
+
+
+Frames to perform action
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	6%
+	14%
+	26%
+	40%
+	60%
+	95%
+	157%
+	2.4.2.3 Faster Cast Rate Breakpoints (Bear Form)
+
+
+Frames to perform action
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	26%
+	40%
+	63%
+	99%
+	163%
+	2.4.3. Faster Block Rate Breakpoints
+
+
+Frames to perform action
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	6%
+	13%
+	20%
+	32%
+	52%
+	86%
+	174%
+	600%
+	
+
+2.4.3.2 Faster Block Rate Breakpoints (Wolf Form)
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	
+
+2.4.3.3 Faster Block Rate Breakpoints (Bear Form)
+
+
+Frames to perform action
+	12
+	11
+	10
+	9
+	8
+	7
+	6
+	5
+	4
+	Stat and amount required to reach frame
+	0%
+	5%
+	10%
+	16%
+	27%
+	40%
+	65%
+	109%
+	223%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary. I prefer Might Mercenary for this character to increase the damage of all of my Summons.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Pride
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience, Honor
+* Body Armor: Treachery
+* Helm: Vampire Gaze

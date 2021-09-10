@@ -1,0 +1,139 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Whirlwind Assassin is a build utilizing the Runeword Chaos. It is very gear dependent and limited in its overall playstyles, but can be a lot of fun. It is a novelty build that has some use in PvP but generally isn’t used very often in PvE. By mixing in Traps she can become more viable and clear more areas at a faster pace.
+2. Quick Reference
+2.1. Skill Build
+* Venom - 20 Points - Adds a lot of poison damage to your attacks, required
+* Claw Mastery - 20 Points - Increased damage, required
+* Weapon Block - 1 Point - Can block all types of damage including elemental, required
+* Burst of Speed - 1+ Points - Great for Movement and a prerequisite for Fade, required
+* Fade - 1+ Points - Great Resistances and Damage Reduction, required
+* Cloak of Shadows - 1 Point - Can help in scary times, required
+* Mind Blast - 1 Point - Can stun enemies for great crowd control, required
+* Shadow Warrior - 1 Point - Prerequisite for Shadow Master, optional
+* Shadow Master - 1+ Points - Helpful for tanking and fighting, optional
+* Dragon Talon - 1 Point - Prerequisite for Dragon Flight, required
+* Dragon Claw - 1 Point - Prerequisite for Dragon Flight, required
+* Dragon Tail - 1 Point - Prerequisite for Dragon Flight, required
+* Dragon Flight - 1 Point - Teleports you to monsters, required
+* Fire Blast - 1+ Points - Synergy and prerequisite for Lightning Sentry, required
+* Shock Web - 1+ Points - Synergy and prerequisite for Lightning Sentry, required
+* Charged Bolt Sentry - 1+ Points - Synergy and prerequisite for Lightning Sentry, required
+* Death Sentry - 20 - Invest skills here first when maxing traps, required
+* Lightning Sentry - 20 - Invest skills here for solid damage, required
+2.2. Attributes
+Strength
+Enough strength for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Note: Do not have poison charms of your own as they will mess with your venom damage.
+Damage Build
+* Weapon: Chaos 
+* Weapon Offhand: Fury, Fools Mod Claw
+* Weapon Swap: CTA + Lidless (Or Spirit if have the Strength)
+* Body Armor: Fortitude
+* Helm: Visionary Helm with Life/Stats/Resistances, Guillaume’s Face
+* Gloves: Trangs
+* Boots: Gore Riders
+* Belt: Verdungo’s 
+* Ring 1: Ravenfrost
+* Ring 2: Dual Leech Ring, Bul Kathos
+* Amulet: Highlord’s Wrath
+* Charm 1: Assassin Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage, Attack Rating, Life Charms
+* Charm 4: Trap Grand Charms
+* Charm 5: Small charms with life, res, mana, fhr depending on needs
+Budget Build Items
+* Weapon: Chaos
+* Weapon Offhand: Bartuc’s Cut-Throat
+* Weapon Swap: CTA + Lidless (Or Spirit if have the Strength)
+* Body Armor: Treachery, Duriel’s Shell
+* Helm: Visionary Helm, Guillaume’s Face, Shako, Vampire Gaze, Rockstopper
+* Gloves: Trang Oul’s Claw, Bloodfist, Sander’s Taboo, Laying of Hands, Ghoulhide
+* Boots: Gore Riders, Waterwalk, Infernostride, Aldur’s Advance, Natalya’s Soul
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost
+* Ring 2: Dual Leech Ring, Angelics Halo
+* Amulet: Angelic’s Wings, Cat’s Eye, The Mahim-Oak Curio
+* Charm 1: Any Torch for stats if can’t get Assassin
+* Charm 2: Annihilus
+* Charm 3: Any Attack Rating/Max Damage/Life Charms
+* Charm 4: Trap or Shadow skiller GCs
+* Charm 5: Any Charms with Res/FHR/Mana/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	 86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	16
+	15
+	14
+	13
+	12
+	11
+	10
+	9
+	Stat and amount required to reach frame
+	0%
+	8%
+	16%
+	27%
+	42%
+	65%
+	102%
+	174%
+	2.4.3. Faster Block Rate Breakpoints
+
+
+Frames to perform action
+	5
+	4
+	3
+	2
+	1
+	Stat and amount required to reach frame
+	0%
+	13%
+	32%
+	86%
+	600%
+	
+
+2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage. Additionally you could run an Offensive (Blessed Aim) Normal or Hell Mercenary to help with your Attack Rating.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Pride or Reaper’s Toll
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze

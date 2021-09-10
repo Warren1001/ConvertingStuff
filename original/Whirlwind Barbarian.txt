@@ -1,0 +1,148 @@
+﻿This links to the most up to date mockup for reference
+1. Introduction
+The Whirlwind Barbarian is a gear dependent character that is often used in PvP but can still have decent use in PvE. It is one of the most iconic builds in Diablo 2 and while it used to be one of the strongest builds in the game in earlier patches, it has been nerfed some but still has viability.
+2. Quick Reference
+2.1. Skill Build
+* Whirlwind - 20 Points - Main damage dealer, required
+* Leap Attack - 1 Point - Useful for movement, required
+* Leap - 1 Point - Prerequisite for Leap Attack, required
+* Concentrate - 1 Point - Prerequisite for Whirlwind, required
+* Stun - 1 Point - Prerequisite for Whirlwind, required
+* Bash - 1 Point - Prerequisite for Whirlwind, required
+* Weapon Mastery of Choice - 20 Points - Adds Damage, Attack Rating, and Critical Strike
+* Increased Stamina - 1 Point - Prerequisite for Increased Speed, required
+* Increased Speed - 1 Point - Helps you move faster, required
+* Iron Skin - 1 Point - Prerequisite for Natural Resistance, required
+* Natural Resistance - 1 Point - Massive boost to Resistances, required
+* Battle Command - 1 Point - Increases Skills , required
+* Battle Orders - 20 Points - Massive Life and Mana boosts, required
+* Shout - 1+ Points - Increases Defenses, required
+* Howl - 1 Point - Prerequisite for Battle Shout, required
+* Taunt - 1 Point - Can be useful to draw out mobs, optional
+* Battle Cry - 1+ Points - Great for lowering Damage and Defense of Monsters, optional
+* Find Potion - 1 Point - Prerequisite for Find Item, optional
+* Find Item - 1+ Points - Helpful if running a lot of magic find to find more items, optional
+2.2. Attributes
+Strength
+Enough strength for gear
+Dexterity
+Enough for gear
+Vitality
+Everything else into Vitality
+Energy
+Nothing added here
+2.3. Gear
+Damage Build
+* Weapon: Grief
+* Weapon Offhand: Breath of the Dying, Death, Grief, Beast
+* Weapon Swap: 2x +3 Warcries Spears
+* Body Armor: Fortitude, Enigma
+* Helm: Arreat’s Face
+* Gloves: Steelrend, Laying of hands
+* Boots: Gore Rider
+* Belt: Verdungo’s Hearty Cord
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost or Dual Leech/Attack Rating/Life/Stats Ring
+* Amulet: Highlord’s Wrath
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Immortal King Build
+* Weapon: Immortal King’s Stone Crushed
+* Weapon Swap: 2x +3 Warcries Spears
+* Body Armor: Immortal King’s Soul Cage
+* Helm: Immortal King’s Will
+* Gloves: Immortal King’s Forge
+* Boots: Immortal King’s Pillar
+* Belt: Immortal King’s Detail
+* Ring 1: Ravenfrost
+* Ring 2: Ravenfrost or Angelic Halo
+* Amulet: Highlord’s Wrath or Angelic Wings
+* Charm 1: Barbarian Torch
+* Charm 2: Annihilus Charm
+* Charm 3: Max Damage/Attack Rating/Life Charms. 3/20/20 Small Charms are the best you can get here.
+* Charm 4: small charms with Resistances, FHR, depending on needs
+Budget Build Items
+* Weapon: Oath, Kingslayer, Obedience, Bonehew, Insight, Black
+* Body Armor: Duriel’s Shell, Duress, Treachery, Spirit Shroud, Shaftstop
+* Helm: Arreat’s Face, Rockstopper, Immortal King’s Will, Guillaume’s Face, Tal Rasha’s Horadric Crest 
+* Gloves: Laying of Hands, Bloodfist, Sander’s Taboo
+* Boots: Gore Rider, Waterwalk, Infernostride, Hsarus Boots
+* Belt: String of Ears, Goldwrap, Nightsmoke
+* Ring 1: Ravenfrost
+* Ring 2: Angelic Halo
+* Amulet: Angelic Wings
+* Charm 1: Any Torch for stats if can’t get Barbarian
+* Charm 2: Annihilus
+* Charm 3: Any Max Damage/Life/Attack Rating charms
+* Charm 4: Any Barbarian skiller GCs
+* Charm 5: Any Charms with Life/Res/FHR/Str
+2.4. Breakpoints
+2.4.1. Faster Hit Recovery Breakpoints
+
+
+Frames to perform action
+	9
+	8
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	7%
+	15%
+	27%
+	48%
+	86%
+	200%
+	4680%
+	2.4.2. Faster Cast Rate Breakpoints
+
+
+Frames to perform action
+	13
+	12
+	11
+	10
+	9
+	8
+	7
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	37%
+	63%
+	105%
+	200%
+	2.4.3. Faster Block Rate Breakpoints
+...
+Frames to perform action
+	7
+	6
+	5
+	4
+	3
+	2
+	Stat and amount required to reach frame
+	0%
+	9%
+	20%
+	42%
+	86%
+	280%
+	2.5. Mercenary
+You can either choose a Defensive (Holy Freeze) or Offensive (Might) Act 2 Nightmare Mercenary here depending on if you want even more slow and safety, or want your Mercenary to have added damage.
+2.5.1. Mercenary Gear
+Optimal Mercenary Gear
+* Weapon: Eth Insight or Reaper’s Toll
+* Body Armor: Eth Fortitude
+* Helm: Ral’d Eth Andariel’s Helm
+Budget Mercenary Gear
+* Weapon: Obedience
+* Body Armor: Treachery
+* Helm: Vampire Gaze
