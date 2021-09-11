@@ -64,6 +64,7 @@ public class GuideConverter {
 							build.add("</ul>");
 							build.add("</td>");
 							build.add("</tr>");
+							build.add("</center>");
 							build.add("</table>");
 							
 						} else if (lastHeader.equalsIgnoreCase("Skill Build")) {
@@ -83,6 +84,7 @@ public class GuideConverter {
 							skills.add("</ol>");
 							skills.add("/\\ CHANGEME \\/");
 							skills.add("<table>");
+							skills.add("<center>");
 							for (int j = 1; j <= 75; j++) {
 								int o = 1;
 								if (j == 4 || j == 15 || j == 23 || j == 33 || j == 36 || j == 40 || j == 55 || j == 60 || j == 65) {
@@ -110,6 +112,7 @@ public class GuideConverter {
 									skills.add("</tr>");
 								}
 							}
+							skills.add("</center>");
 							skills.add("</table>");
 							skills.add("");
 							skills.add("<div class=\"centered\">");
@@ -166,6 +169,7 @@ public class GuideConverter {
 							build.add("<h2>Stat Points and Attributes</h2>");
 							build.add("");
 							build.add("<table>");
+							build.add("<center>");
 							build.add("<tr>");
 							build.add("<td>Strength</td>");
 							build.add("<td>Dexterity</td>");
@@ -178,6 +182,7 @@ public class GuideConverter {
 							build.add("<td>Everything Else</td>");
 							build.add("<td>None</td>");
 							build.add("</tr>");
+							build.add("</center>");
 							build.add("</table>");
 							
 							skills.add("");
@@ -204,6 +209,7 @@ public class GuideConverter {
 							build.add(String.format("<h%1$s>%2$s</h%1$s>", headerCount, lastHeader));
 							build.add("");
 							build.add("<table>");
+							build.add("<center>");
 							build.add("<tr>");
 							tableHeadIndex = build.size();
 							build.add("</tr>");
@@ -284,11 +290,7 @@ public class GuideConverter {
 								
 								line = line.substring(2).trim();
 								String gearLine = Reformat.formatOnlyItems(String.format("<li>%s</li>", line), buildName);
-								if (firstInTable == 1 &&
-										(line.startsWith("Weapon:") || line.startsWith("Shield:") || line.startsWith("Body Armor:") ||
-												line.startsWith("Helm:") || line.startsWith("Belt:"))) {
-									build.add(gearLine);
-								}
+								if (firstInTable == 1) build.add(gearLine);
 								gear.add(gearLine);
 								
 							} else if (line.startsWith("Note: ")) {
@@ -333,7 +335,7 @@ public class GuideConverter {
 									build.add("</td>");
 								}
 								
-								build.add(tableHeadIndex++, String.format("<td><center><h3>%s</h3></center></td>", line));
+								build.add(tableHeadIndex++, String.format("<td><h3>%s</h3></td>", line));
 								build.add("<td>");
 								build.add("<ul>");
 								
@@ -418,6 +420,7 @@ public class GuideConverter {
 							build.add("</ul>");
 							build.add("</td>");
 							build.add("</tr>");
+							build.add("</center>");
 							build.add("</table>");
 						}
 						

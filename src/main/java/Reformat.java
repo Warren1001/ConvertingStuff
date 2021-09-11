@@ -858,6 +858,7 @@ public class Reformat {
 		ABBREVIATIONS.put("Dex", "Dexterity");
 		ABBREVIATIONS.put("Vit", "Vitality");
 		ABBREVIATIONS.put("Ene", "Energy");
+		ABBREVIATIONS.put("Bartucs", "Bartuc’s Cut-Throat");
 		//ABBREVIATIONS.put("", "");
 		
 		// typos
@@ -877,6 +878,7 @@ public class Reformat {
 		ABBREVIATIONS.put("Heart of the Wolverine", "Heart of Wolverine");
 		ABBREVIATIONS.put("Lightsaber", "Lightsabre");
 		ABBREVIATIONS.put("Immortal King’s Stone Crushed", "Immortal King’s Stone Crusher");
+		ABBREVIATIONS.put("AssassinTorch", "Assassin Torch");
 		//ABBREVIATIONS.put("", "");
 		
 		GRAMMAR.add("fhr");
@@ -931,6 +933,8 @@ public class Reformat {
 		HARDCODES.put("Dexterityterity", "Dexterity");
 		HARDCODES.put("Vitalityality", "Vitality");
 		HARDCODES.put("Energyrgy", "Energy");
+		HARDCODES.put("Strengthing of Ears", "@@@D2StringOfEars@@@");
+		HARDCODES.put("Assassin@@@D2HellfireTorch@@@", "Assassin @@@D2HellfireTorch@@@");
 		
 	}
 	
