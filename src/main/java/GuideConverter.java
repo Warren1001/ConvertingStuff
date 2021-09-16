@@ -6,6 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Collectors;
 
 public class GuideConverter {
 	
@@ -15,6 +16,11 @@ public class GuideConverter {
 	public static final Pattern SKILL  = Pattern.compile("^\\* ([\\w ]+)[ ]?-[ ]?[~]?([\\d-X]+[+]?)(?: [pP]oint[s]?)?[a-zA-Z +]*(,| -)? (.+)");
 	
 	public static void main(String[] args) throws IOException {
+		
+		if (args.length == 1 && args[0].equalsIgnoreCase("format")) {
+			formatFiles();
+			return;
+		}
 		
 		File   dir   = Paths.get("original").toFile();
 		File[] files = dir.listFiles(file -> file.getName().endsWith(".txt"));
@@ -290,7 +296,9 @@ public class GuideConverter {
 								
 								line = line.substring(2).trim();
 								String gearLine = Reformat.formatOnlyItems(String.format("<li>%s</li>", line), buildName);
-								if (firstInTable == 1) build.add(gearLine);
+								if (firstInTable == 1) {
+									build.add(gearLine);
+								}
 								gear.add(gearLine);
 								
 							} else if (line.startsWith("Note: ")) {
@@ -449,6 +457,25 @@ public class GuideConverter {
 			}
 		}
 		return count;
+	}
+	
+	public static void formatFiles() throws IOException {
+		
+		File   dir   = Paths.get("format").toFile();
+		File[] files = dir.listFiles();
+		
+		if (files != null && files.length != 0) {
+			
+			for (File file : files) {
+				
+				String buildName = file.getName();
+				
+				Files.write(Paths.get(file.getPath() + "-formatted"),
+						Files.readAllLines(file.toPath()).stream().map(line -> Reformat.format(line, buildName)).collect(Collectors.toList()));
+				
+			}
+			
+		}
 	}
 	
 }

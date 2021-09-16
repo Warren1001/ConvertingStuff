@@ -815,13 +815,14 @@ public class Reformat {
 		//THINGS.add("");
 		
 		ABBREVIATIONS.put("CTA", "Call to Arms");
-		ABBREVIATIONS.put(" res", " Resistances");
+		//ABBREVIATIONS.put(" res", " Resistances");
 		ABBREVIATIONS.put("FHR", "Faster Hit Recovery");
 		ABBREVIATIONS.put("FCR", "Faster Cast Rate");
 		ABBREVIATIONS.put("FRW", "Faster Run/Walk");
 		ABBREVIATIONS.put("FBR", "Faster Block Rate");
 		ABBREVIATIONS.put("IAS", "Increased Attack Speed");
-		ABBREVIATIONS.put("Monarch", "Monarch Shield");
+		ABBREVIATIONS.put("NHAM", "'Next Hit Always Misses'");
+		//ABBREVIATIONS.put("Monarch", "Monarch Shield");
 		//ABBREVIATIONS.put("Light", "Lightning");
 		ABBREVIATIONS.put("Facet", "Rainbow Facet");
 		ABBREVIATIONS.put(" + ", " and ");
@@ -854,7 +855,7 @@ public class Reformat {
 		ABBREVIATIONS.put("GCs", "Grand Charms");
 		ABBREVIATIONS.put("SCs", "Small Charms");
 		ABBREVIATIONS.put("scs", "Small Charms");
-		ABBREVIATIONS.put("Str", "Strength");
+		//ABBREVIATIONS.put("Str", "Strength");
 		ABBREVIATIONS.put("Dex", "Dexterity");
 		ABBREVIATIONS.put("Vit", "Vitality");
 		ABBREVIATIONS.put("Ene", "Energy");
@@ -907,6 +908,8 @@ public class Reformat {
 		GRAMMAR.add("Fire ball");
 		GRAMMAR.add("Fire bolt");
 		GRAMMAR.add("unique");
+		GRAMMAR.add("physical");
+		GRAMMAR.add("fire");
 		//GRAMMAR.add("");
 		
 		HARDCODES.put("@@@D2Annihilus@@@", "@@@D2AnnihilusCharm@@@");
@@ -935,6 +938,14 @@ public class Reformat {
 		HARDCODES.put("Energyrgy", "Energy");
 		HARDCODES.put("Strengthing of Ears", "@@@D2StringOfEars@@@");
 		HARDCODES.put("Assassin@@@D2HellfireTorch@@@", "Assassin @@@D2HellfireTorch@@@");
+		HARDCODES.put("Deadly Strengthike", "Deadly Strike");
+		HARDCODES.put("On Strengthiking", "On Striking");
+		HARDCODES.put("Rainbow @@@D2RainbowFacet@@@", "@@@D2RainbowFacet@@@");
+		HARDCODES.put("@@@D2Raven@@@ Frost", "@@@D2RavenFrost@@@");
+		HARDCODES.put("@@@D2Smite@@@r", "Smiter");
+		HARDCODES.put("@@@D2GoreRider@@@s", "@@@D2GoreRider@@@");
+		HARDCODES.put("@@@D2Charge@@@d Strengthike", "@@@D2ChargedStrike@@@");
+		HARDCODES.put("@@@D2Charge@@@d Strike", "@@@D2ChargedStrike@@@");
 		
 	}
 	
